@@ -142,7 +142,17 @@ class Gopichand:
 
 <br/>
 
+[![Email](https://img.shields.io/badge/Email-gopichandchand516%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopichandchand516@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gopichand%20Challa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopichandchalla)
+&nbsp;
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Visit_My_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopichandchalla16)
+
+<br/>
+
 > 💬 *Feel free to reach out for collaborations, project discussions, or just a chat about AI & Data Science!*
+>
+> 🤝 Also check out my fellow contributor [Janmejay](https://github.com/janmejay484) for more awesome projects and collaborations.
 
 </div>
 
