@@ -151,8 +151,7 @@ class Gopichand:
 <br/>
 
 > 💬 *Feel free to reach out for collaborations, project discussions, or just a chat about AI & Data Science!*
->
-> 🤝 Also check out my fellow contributor [Janmejay](https://github.com/janmejay484) for more awesome projects and collaborations.
+
 
 </div>
 
