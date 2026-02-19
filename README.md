@@ -5,16 +5,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Data+Scientist+%7C+AI+Engineer;🤖+Building+Intelligent+AI+Systems;🐍+Python+%7C+ML+%7C+Deep+Learning;📊+NLP+%7C+Generative+AI+%7C+LLMs;💡+Turning+Data+Into+Decisions)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=gopichandchalla16&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;
   <a href="https://github.com/gopichandchalla16?tab=followers">
     <img src="https://img.shields.io/github/followers/gopichandchalla16?style=for-the-badge&color=58A6FF&logo=github&label=FOLLOWERS" alt="Followers"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/PUBLIC_REPOS-20+-58A6FF?style=for-the-badge&logo=github" alt="Repos"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/OPEN_TO_WORK-🟢_Available-success?style=for-the-badge" alt="Open to Work"/>
+  <img src="https://img.shields.io-badge/OPEN_TO_WORK-🟢_Available-success?style=for-the-badge" alt="Open to Work"/>
 </p>
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="AI Engineer at work" width="60%"/>
 
 </div>
 
@@ -104,16 +104,6 @@ I gained real-world experience during my **Infosys Internship**, where I built a
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gopichandchalla16&theme=tokyo-night&hide_border=true&area=true&radius=8)
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=gopichandchalla16&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/gopichandchalla16)
 
 </div>
 
