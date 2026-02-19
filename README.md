@@ -22,20 +22,9 @@
 
 ## 🙋‍♂️ About Me
 
-```python
-class Gopichand:
-    name         = "Gopichand Challa"
-    location     = "📍 Bengaluru, India"
-    education    = "🎓 B.Tech — Computer Science Engineering"
-    role         = "🔬 Data Scientist | AI & ML Engineer"
-    domains      = ["Healthcare AI", "Legal AI", "Financial Analytics",
-                    "NLP", "Generative AI", "LLMs", "Cybersecurity AI"]
-    experience   = "🏢 Infosys Internship — Real-Time Industry Insight System"
-    currently    = "🟢 Actively seeking full-time roles in Data Science & AI"
+I am **Gopichand Challa**, a **Data Scientist & AI/ML Engineer** based in **Bengaluru, India** with a **B.Tech in Computer Science Engineering**. I work across domains such as **Healthcare AI, Legal AI, Financial Analytics, NLP, Generative AI, LLMs, and Cybersecurity AI**, with a strong focus on building practical, production-ready AI solutions.
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something impactful with AI 🚀")
-```
+I gained real-world experience during my **Infosys Internship**, where I built a **Real-Time Industry Insight System** for stock sentiment analysis and predictions. I am currently **actively seeking full-time roles in Data Science & AI**, and I enjoy turning complex, messy data into clear, actionable insights that create real impact.
 
 - 🔭 Engineering **production-grade AI systems** across healthcare, legal, finance & security
 - 🌱 Deepening expertise in **LLMs, RAG pipelines, Generative AI & MLOps**
@@ -151,7 +140,6 @@ class Gopichand:
 <br/>
 
 > 💬 *Feel free to reach out for collaborations, project discussions, or just a chat about AI & Data Science!*
-
 
 </div>
 
