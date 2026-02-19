@@ -5,13 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Data+Scientist+%7C+AI+Engineer;🤖+Building+Intelligent+AI+Systems;🐍+Python+%7C+ML+%7C+Deep+Learning;📊+NLP+%7C+Generative+AI+%7C+LLMs;💡+Turning+Data+Into+Decisions)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://github.com/gopichandchalla16?tab=followers">
-    <img src="https://img.shields.io/github/followers/gopichandchalla16?style=for-the-badge&color=58A6FF&logo=github&label=FOLLOWERS" alt="Followers"/>
-  </a>
+  <img src="https://img.shields.io/badge/ROLE-Data_Scientist_&_AI_Engineer-58A6FF?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Role: Data Scientist & AI Engineer"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/PUBLIC_REPOS-20+-58A6FF?style=for-the-badge&logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/badge/FOCUS-LLMs_•_RAG_•_MLOps-FFB000?style=for-the-badge" alt="Focus: LLMs, RAG, MLOps"/>
   &nbsp;
-  <img src="https://img.shields.io-badge/OPEN_TO_WORK-🟢_Available-success?style=for-the-badge" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/STATUS-🟢_Open_to_Data_Science_%26_AI_Roles-success?style=for-the-badge" alt="Open to Data Science & AI Roles"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="AI Engineer at work" width="60%"/>
