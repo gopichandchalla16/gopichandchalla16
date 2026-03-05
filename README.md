@@ -1,87 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gopichand%20Challa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20Scientist%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20CSE%20Graduate&descAlignY=56&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gopichand%20Challa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Web3%20Builder%20%7C%20Building%20in%20Public&descAlignY=56&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Data+Scientist+%7C+AI+Engineer;🤖+Building+Intelligent+AI+Systems;🐍+Python+%7C+ML+%7C+Deep+Learning;📊+NLP+%7C+Generative+AI+%7C+LLMs;💡+Turning+Data+Into+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI+Engineer+building+on-chain+intelligence;Learning+Web3+Day+by+Day+in+Public;LLMs+%7C+Agents+%7C+Smart+Contracts;AI+x+Web3+The+next+frontier;Building+proof+of+work+every+single+day)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://img.shields.io/badge/ROLE-Data_Scientist_&_AI_Engineer-58A6FF?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Role: Data Scientist & AI Engineer"/>
+  <img src="https://img.shields.io/badge/NICHE-AI_%C3%97_Web3-58A6FF?style=for-the-badge&logo=ethereum&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-LLMs_•_RAG_•_MLOps-FFB000?style=for-the-badge" alt="Focus: LLMs, RAG, MLOps"/>
+  <img src="https://img.shields.io/badge/BUILDING-In_Public_Daily-FFB000?style=for-the-badge&logo=twitter&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-🟢_Open_to_Data_Science_%26_AI_Roles-success?style=for-the-badge" alt="Open to Data Science & AI Roles"/>
+  <img src="https://img.shields.io/badge/STATUS-Open_to_AI_%26_Web3_Roles-success?style=for-the-badge"/>
 </p>
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="AI Engineer at work" width="60%"/>
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## Who I Am
 
-I am **Gopichand Challa**, a **Data Scientist & AI/ML Engineer** based in **Bengaluru, India** with a **B.Tech in Computer Science Engineering**. I work across domains such as **Healthcare AI, Legal AI, Financial Analytics, NLP, Generative AI, LLMs, and Cybersecurity AI**, with a strong focus on building practical, production-ready AI solutions.
+**Gopichand Challa** - CSE Graduate from India, building at the intersection of **AI and Web3**.
 
-I gained real-world experience during my **Infosys Internship**, where I built a **Real-Time Industry Insight System** for stock sentiment analysis and predictions. I am currently **actively seeking full-time roles in Data Science & AI**, and I enjoy turning complex, messy data into clear, actionable insights that create real impact.
+I'm not waiting to be "ready." I'm learning in public, shipping every day, and documenting the whole journey - from wallets to smart contracts to AI agents on-chain.
 
-- 🔭 Engineering **production-grade AI systems** across healthcare, legal, finance & security
-- 🌱 Deepening expertise in **LLMs, RAG pipelines, Generative AI & MLOps**
-- 🏆 Built a **Real-Time Industry Insight System** (stock sentiment + predictions) @ **Infosys Internship**
-- 💡 Passionate about **converting complex, messy data into intelligent decisions**
-- 📦 Maintainer of **20+ public repositories** covering diverse AI/ML use cases
-- 🤝 Open to **collaborating on impactful Data Science, AI & open-source projects**
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🤖 AI · ML · Data Science
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### 🌐 Frameworks, Cloud & Tools
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- **Current Focus:** AI x Web3 - smart contract intelligence, on-chain AI agents, decentralized data
+- **AI Stack:** LLMs, RAG pipelines, Generative AI, Python, LangChain
+- **Web3 Stack:** Ethereum, Solidity (learning), blockchain fundamentals, Etherscan
+- **Building:** One project per week - every commit is proof of work
+- **Sharing:** Daily learnings on X (Twitter) - follow the journey
+- **Open to:** AI Engineer, Web3 Developer, and AI x Web3 hybrid roles
 
 ---
 
-## 🚀 Featured Projects
+## Building in Public - Web3 Learning Log
+
+> Every day I learn something new, build something real, and post proof of work.
+
+| Day | Topic | Build | Status |
+|:---:|:---|:---|:---:|
+| Day 1 | Wallets, Transactions, MetaMask | Set up MetaMask, sent first test ETH | Done |
+| Day 2 | Hashing, Blocks, Chains, PoW vs PoS | [Mini Blockchain in Python](https://github.com/gopichandchalla16/mini-blockchain-python) | Done |
+| Day 3 | Smart Contracts, Solidity basics | Coming soon | In Progress |
+| Day 4 | ERC-20 Tokens | Coming soon | Upcoming |
+| Day 5 | DeFi - Uniswap, liquidity pools | Coming soon | Upcoming |
+| Day 6 | AI Agent on-chain | Coming soon | Upcoming |
+| Day 7 | Full AI x Web3 mini project | Coming soon | Upcoming |
+
+All code lives here: [web3-ai-learning-journey](https://github.com/gopichandchalla16/web3-ai-learning-journey)
+
+---
+
+## Featured Projects
 
 <div align="center">
 
-| 🏆 Project | 📝 Description | 🛠️ Stack |
+| Project | Description | Stack |
 |:---|:---|:---|
-| [🏛️ Legally AI Bharat](https://github.com/gopichandchalla16/legally-ai-bharat) | AI-powered legal assistance platform tailored for India's legal system | Python · LLM · NLP |
-| [📈 Infosys Industry Insight System](https://github.com/gopichandchalla16/infosys-internship-real-time-industry-insight-system) | Real-time stock market sentiment analysis & AI-driven predictions | Python · NLP · ML |
-| [🛡️ NovaAI Nexus Honeypot](https://github.com/gopichandchalla16/novaai-nexus-honeypot) | AI-powered cybersecurity honeypot for threat intelligence | Python · AI |
-| [🏥 AI Medical Diagnosis System](https://github.com/gopichandchalla16/AI-Medical-Diagnosis-System) | Multi-disease prediction & health risk analysis engine | Python · ML · Streamlit |
-| [🧠 AI Code Reviewer](https://github.com/gopichandchalla16/AI-Code-Reviewer) | Automated code quality analysis using Generative AI | Python · GenAI |
-| [🗄️ Inventory Heatmap — Snowflake](https://github.com/gopichandchalla16/inventory-heatmap-snowflake) | Cloud-based inventory analytics with interactive heatmap dashboards | Python · Snowflake |
-| [🔍 Video Subtitle Search Engine](https://github.com/gopichandchalla16/Enhancing-Search-Engine-Relevance-for-Video-Subtitles) | NLP-enhanced semantic search relevance for video subtitles | Python · NLP · ML |
-| [✈️ AI Travel Planner](https://github.com/gopichandchalla16/AI-Travel-Planner) | Intelligent AI-powered travel itinerary generator | Python · Streamlit |
-| [🎓 AI Data Science Tutor](https://github.com/gopichandchalla16/AI-Data-Science-Tutor) | Conversational AI mentor for data science learners | Python · LLM |
-| [⛓️ Cardano Novachain Nexus](https://github.com/gopichandchalla16/CardanoNovachain-Nexus) | Blockchain analytics & DeFi intelligence platform | Python · Blockchain |
+| [Mini Blockchain - Python](https://github.com/gopichandchalla16/mini-blockchain-python) | Blockchain from scratch - hash chaining, tamper detection, immutability proof | Python, SHA-256 |
+| [Web3 x AI Learning Journey](https://github.com/gopichandchalla16/web3-ai-learning-journey) | Daily builds - all Web3 + AI code in one place | Python, Solidity, Web3 |
+| [Cardano Novachain Nexus](https://github.com/gopichandchalla16/CardanoNovachain-Nexus) | Blockchain analytics and DeFi intelligence platform | Python, Blockchain |
+| [Legally AI Bharat](https://github.com/gopichandchalla16/legally-ai-bharat) | AI-powered legal assistance for India's legal system | Python, LLM, NLP |
+| [NovaAI Nexus Honeypot](https://github.com/gopichandchalla16/novaai-nexus-honeypot) | AI-powered cybersecurity honeypot for threat intelligence | Python, AI |
+| [AI Medical Diagnosis](https://github.com/gopichandchalla16/AI-Medical-Diagnosis-System) | Multi-disease prediction and health risk analysis | Python, ML, Streamlit |
+| [AI Code Reviewer](https://github.com/gopichandchalla16/AI-Code-Reviewer) | Automated code quality analysis using Generative AI | Python, GenAI |
+| [Infosys Industry Insight](https://github.com/gopichandchalla16/infosys-internship-real-time-industry-insight-system) | Real-time stock sentiment analysis and AI predictions | Python, NLP, ML |
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Web3 Stack
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.py](https://img.shields.io/badge/Web3.py-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
+
+### AI and ML Stack
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -96,48 +110,28 @@ I gained real-world experience during my **Infosys Internship**, where I built a
 
 ---
 
-## 📈 Contribution Activity
+## Connect With Me
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gopichandchalla16&theme=tokyo-night&hide_border=true&area=true&radius=8)
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-gopichandchalla16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopichandchalla16)
-&nbsp;
-[![Location](https://img.shields.io/badge/📍_Bengaluru-India-0078D4?style=for-the-badge&logoColor=white)](https://github.com/gopichandchalla16)
-&nbsp;
-[![Open to Work](https://img.shields.io/badge/🟢_Open_to-Data_Science_%26_AI_Roles-success?style=for-the-badge)](https://github.com/gopichandchalla16)
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-gopichandchand516%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopichandchand516@gmail.com)
+[![X Twitter](https://img.shields.io/badge/X_Twitter-Follow_the_Journey-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gopichandchalla)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gopichand%20Challa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopichandchalla)
 &nbsp;
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Visit_My_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopichandchalla16)
+[![Email](https://img.shields.io/badge/Email-gopichandchand516%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopichandchand516@gmail.com)
 
 <br/>
 
-> 💬 *Feel free to reach out for collaborations, project discussions, or just a chat about AI & Data Science!*
+> *Building AI x Web3 in public - one commit, one tweet, one day at a time.*
 
 </div>
 
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%"/>
+**Star my repos if they help you learn!**
 
-**⭐ If you find my work helpful, don't forget to star the repos!**
-
-*"Turning raw data into intelligent decisions — one model at a time." 🧠✨*
-
+*"Proof of work is not just for Bitcoin. It is how I show up every day."*
 </div>
