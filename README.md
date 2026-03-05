@@ -11,7 +11,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Building-In_Public_Daily-FFB000?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open_to_Roles-2EA043?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Learning_in_Public-2EA043?style=flat-square"/>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=gopichandchalla16&label=Profile+Views&color=58a6ff&style=flat-square"/>
 </p>
@@ -22,78 +22,54 @@
 
 ## `> whoami`
 
-```yaml
-Name     : Gopichand Challa
-Handle   : @GopichandAI
-Location : Guntur, Andhra Pradesh, India 🇮🇳
-Niche    : AI × Web3 — On-Chain Intelligence
+**Hey, I’m Gopichand Challa** — a CSE graduate from Guntur, India, learning **AI × Web3** in public.
 
-Education:
-  - B.Tech CSE, 2024
+- Living in **Guntur, Andhra Pradesh, India 🇮🇳**
+- Currently exploring **AI agents, Ethereum, and on-chain data**
+- I document my journey every day on X: **[@GopichandAI](https://x.com/GopichandAI)**
 
-Experience:
-  - AI Intern @ Infosys Springboard
-  - AI Intern @ Innomatics Research Labs
-  - Cardano Hackathon Grand Finale — IBW Bengaluru 2024
+**What I’ve done so far**
+- Completed **B.Tech in Computer Science Engineering (2024)**
+- Worked as an **AI Intern** at Infosys Springboard
+- Worked as an **AI Intern** at Innomatics Research Labs
+- Reached the **Cardano Hackathon Grand Finale (IBW Bengaluru 2024)**
 
-Currently Building:
-  - AI agent that queries Ethereum wallets in plain English
-  - On-chain data pipelines using Dune Analytics + Python
-  - Smart contract security tool with Slither + Claude API
+**What I’m building right now**
+- An AI agent that can **read Ethereum wallets in plain English**
+- **On-chain data pipelines** using Dune Analytics + Python
+- A simple **smart contract security helper** powered by Slither + Claude
 
-Stack:
-  AI   : LangChain · LangGraph · Claude API · RAG · Python
-  Web3 : Solidity · Web3.py · Ethereum · Dune Analytics
-  Tools: FastAPI · Streamlit · Docker · Git · HuggingFace
+**Tools I’m learning & using**
+- **AI:** LangChain, LangGraph, Claude API, RAG, Python
+- **Web3:** Solidity, Web3.py, Ethereum, Dune Analytics
+- **Tools:** FastAPI, Streamlit, Docker, Git, HuggingFace
 
-Goal     : Remote AI × Web3 role — September 2026
-Approach : "Proof of work is not just for Bitcoin."
-```
+I’m not trying to look like a senior dev — I’m just **showing real progress, day by day.**
 
 ---
 
 ## `> current_focus`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Right now I’m in the **foundations + first projects** phase.
 
-### 📡 Learning Roadmap
+**Learning roadmap (simple version)**
+- ✅ Blockchain basics — blocks, hashes, PoW vs PoS, wallets, transactions
+- 🔄 Solidity and the EVM — writing and deploying simple contracts
+- ⏳ Python × Web3.py — reading chain data from scripts
+- ⏳ On‑chain data — Dune SQL dashboards and analytics
+- ⏳ LangChain + Web3 — connecting AI agents to blockchain data
+- ⏳ Smart contract security fundamentals
 
-```text
-Phase 1 → Blockchain Fundamentals     ✅ Done
-Phase 2 → Solidity + EVM              🔄 Active
-Phase 3 → Python × Web3.py            ⏳ Next
-Phase 4 → On-Chain Data (Dune SQL)    ⏳ Next
-Phase 5 → LangChain + Web3 Agents     ⏳ Next
-Phase 6 → Smart Contract Security     ⏳ Next
-Phase 7 → Bittensor + ZK-ML           ⏳ Next
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Job Targets
-
-```text
-Community Manager    → Apply Week 4
-On-Chain Analyst     → Apply Week 6
-Developer Relations  → Apply Week 8
-AI × Web3 Engineer   → Apply Month 3
-
-Preference : Remote
-Market     : Global (India ✓ included)
-```
-
-</td>
-</tr>
-</table>
+I’m not fixated on specific job titles yet. The goal is:
+- **Build skills that are real and useful**
+- **Ship small projects consistently**
+- **Let the right role find me once the skills and proof of work are strong**
 
 ---
 
 ## `> proof_of_work` — Daily Build Log
 
-> **Every day gets a commit. No days off.**
+> **Every day gets a commit. No days off.**  
 > Follow live → [web3-ai-learning-journey](https://github.com/gopichandchalla16/web3-ai-learning-journey)
 
 | Day | Date | What I Studied | What I Built | Status |
@@ -116,8 +92,8 @@ Market     : Global (India ✓ included)
 <td width="50%" valign="top">
 
 ### 🤖 [AI × Web3 Learning Journey](https://github.com/gopichandchalla16/web3-ai-learning-journey)
-Daily proof-of-work repo — every day = one folder, one build, one commit.
-Covers the full 7-phase AI × Web3 roadmap.
+Daily proof-of-work repo — every day = one folder, one build, one commit.  
+Covers the full 7‑phase AI × Web3 roadmap.
 
 `Python` `Solidity` `Web3.py` `LangChain` `Dune SQL`
 
@@ -125,7 +101,7 @@ Covers the full 7-phase AI × Web3 roadmap.
 <td width="50%" valign="top">
 
 ### ⛓️ [Cardano Novachain Nexus](https://github.com/gopichandchalla16/CardanoNovachain-Nexus)
-Built for Cardano Hackathon Grand Finale — IBW Bengaluru 2024.
+Built for Cardano Hackathon Grand Finale — IBW Bengaluru 2024.  
 Blockchain analytics + DeFi intelligence with real-time on-chain pipelines.
 
 `Python` `Blockchain` `DeFi` `Analytics`
@@ -230,7 +206,7 @@ Multi-disease prediction engine — diabetes, heart disease, lung cancer via ML.
 
 <br/><br/>
 
-> I post daily builds on X — follow **[@GopichandAI](https://x.com/GopichandAI)** if you're building AI × Web3 publicly.
+> I post daily builds on X — follow **[@GopichandAI](https://x.com/GopichandAI)** if you're building AI × Web3 publicly.  
 > *Every thread is a proof-of-work artifact from something I actually built that day.*
 
 </div>
