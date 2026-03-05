@@ -14,17 +14,12 @@
 <img src="https://img.shields.io/badge/Status-Learning_in_Public-2EA043?style=flat-square"/>
 </p>
 
-</div>
+<!-- Visual stack preview using skill icons -->
+<br/>
+<img src="https://skillicons.dev/icons?i=python,solidity,ethereum,langchain&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,vscode,postgres,tensorflow&theme=dark" />
 
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0d2137,100:0a3d62&height=3" width="100%"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0a3d62&height=180&text=%F0%9F%A4%96%20AI%20%C3%97%20%E2%9B%93%20Web3&fontSize=60&fontColor=58A6FF&animation=twinkling&fontAlignY=55&desc=On-Chain%20Intelligence%20%7C%20Building%20in%20Public%20%7C%20Day%20by%20Day&descSize=14&descColor=90caf9&descAlignY=78"/>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0a3d62&height=180&text=%F0%9F%A4%96%20AI%20%C3%97%20%E2%9B%93%20Web3&fontSize=60&fontColor=58A6FF&animation=twinkling&fontAlignY=55&desc=On-Chain%20Intelligence%20%7C%20Building%20in%20Public%20%7C%20Day%20by%20Day&descSize=14&descColor=90caf9&descAlignY=78" width="100%" alt="AI x Web3 Banner"/>
-</picture>
 </div>
 
 ---
@@ -169,7 +164,7 @@ Multi-disease prediction engine — diabetes, heart disease, lung cancer via ML.
 [![Web3.py](https://img.shields.io/badge/Web3.py-F16822?style=flat-square&logo=python&logoColor=white)](https://web3py.readthedocs.io)
 [![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)](https://chain.link)
 [![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=flat-square&logo=metamask&logoColor=white)](https://metamask.io)
-[![Dune](https://img.shields.io/badge/Dune_Analytics-FF6D00?style=flat-square&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)](https://dune.com)
+[![Dune](https://img.shields.io/badge/Dune_Analytics-FF6D00?style=flat-square&logoColor=white)](https://dune.com)
 
 **🤖 AI + ML**
 
@@ -186,8 +181,17 @@ Multi-disease prediction engine — diabetes, heart disease, lung cancer via ML.
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
-[![PostgreSQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+
+**✨ AI Tools I Use to Build**
+
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.sh)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logoColor=white)](https://claude.ai)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/features/copilot)
+[![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=flat-square&logoColor=white)](https://codeium.com/windsurf)
+[![Bolt](https://img.shields.io/badge/Bolt.new-FF6C37?style=flat-square&logoColor=white)](https://bolt.new)
+[![Replit](https://img.shields.io/badge/Replit-667881?style=flat-square&logo=replit&logoColor=white)](https://replit.com)
 
 </div>
 
