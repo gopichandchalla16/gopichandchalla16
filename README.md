@@ -90,7 +90,7 @@
 - Completed **B.Tech in Computer Science Engineering (2024)**
 - Worked as an **AI Intern** at Infosys Springboard
 - Worked as a **Data Science with Gen AI Intern** at Innomatics Research Labs
-- Reached the **Cardano Hackathon Grand Finale (IBW Bengaluru 2024)**
+- Reached the **Cardano Hackathon Grand Finale (IBW Bengaluru 2025)**
 
 **What I’m building right now**
 - An AI agent that can **read Ethereum wallets in plain English**
