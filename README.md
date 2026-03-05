@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,70:0a3d62,100:1565c0&height=200&section=header&text=Gopichand%20Challa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%86%92%20Web3%20Builder%20%7C%20Building%20On-Chain%20Intelligence&descAlignY=58&descSize=16&descColor=90caf9" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%C3%97+Web3+%E2%80%94+on-chain+intelligence+systems+%F0%9F%A4%96;LangChain+%2B+Web3.py+%2B+Smart+Contracts+%2B+LLMs+%E2%9B%93;Posting+daily+proof+of+work+%40GopichandAI+%F0%9F%94%97;From+AI+intern+%E2%86%92+AI+%C3%97+Web3+engineer+in+2026+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%C3%97+Web3+%E2%80%94+on-chain+intelligence+systems+%F0%9F%A4%96;LangChain+%2B+Web3.py+%2B+Smart+Contracts+%2B+LLMs+%E2%9B%93;Posting+daily+proof+of+work+%40GopichandAI+%F0%9F%94%97;Building+in+public+%E2%80%94+one+commit+at+a+time+%F0%9F%94%97)](https://git.io/typing-svg)
 
 <p>
 <img src="https://img.shields.io/badge/AI_%C3%97_Web3-On--Chain_Intelligence-58A6FF?style=flat-square"/>
@@ -12,10 +12,19 @@
 <img src="https://img.shields.io/badge/Building-In_Public_Daily-FFB000?style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Learning_in_Public-2EA043?style=flat-square"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=gopichandchalla16&label=Profile+Views&color=58a6ff&style=flat-square"/>
 </p>
 
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0d2137,100:0a3d62&height=3" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0a3d62&height=180&text=%F0%9F%A4%96%20AI%20%C3%97%20%E2%9B%93%20Web3&fontSize=60&fontColor=58A6FF&animation=twinkling&fontAlignY=55&desc=On-Chain%20Intelligence%20%7C%20Building%20in%20Public%20%7C%20Day%20by%20Day&descSize=14&descColor=90caf9&descAlignY=78"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0a3d62&height=180&text=%F0%9F%A4%96%20AI%20%C3%97%20%E2%9B%93%20Web3&fontSize=60&fontColor=58A6FF&animation=twinkling&fontAlignY=55&desc=On-Chain%20Intelligence%20%7C%20Building%20in%20Public%20%7C%20Day%20by%20Day&descSize=14&descColor=90caf9&descAlignY=78" width="100%" alt="AI x Web3 Banner"/>
+</picture>
 </div>
 
 ---
@@ -24,15 +33,15 @@
 
 **Hey, I’m Gopichand Challa** — a CSE graduate from Guntur, India, learning **AI × Web3** in public.
 
-- Living in **Benguluru, India 🇮🇳**
+- Living in **Guntur, Andhra Pradesh, India 🇮🇳**
 - Currently exploring **AI agents, Ethereum, and on-chain data**
 - I document my journey every day on X: **[@GopichandAI](https://x.com/GopichandAI)**
 
 **What I’ve done so far**
 - Completed **B.Tech in Computer Science Engineering (2024)**
 - Worked as an **AI Intern** at Infosys Springboard
-- Worked as an **Data Science with Gen AI Intern** at Innomatics Research Labs
-- Reached the **Cardano Hackathon Grand Finale (IBW Bengaluru 2025)**
+- Worked as a **Data Science with Gen AI Intern** at Innomatics Research Labs
+- Reached the **Cardano Hackathon Grand Finale (IBW Bengaluru 2024)**
 
 **What I’m building right now**
 - An AI agent that can **read Ethereum wallets in plain English**
@@ -52,7 +61,7 @@ I’m not trying to look like a senior dev — I’m just **showing real progres
 
 Right now I’m in the **foundations + first projects** phase.
 
-**Learning roadmap (simple version)**
+**Learning roadmap**
 - ✅ Blockchain basics — blocks, hashes, PoW vs PoS, wallets, transactions
 - 🔄 Solidity and the EVM — writing and deploying simple contracts
 - ⏳ Python × Web3.py — reading chain data from scripts
@@ -60,10 +69,10 @@ Right now I’m in the **foundations + first projects** phase.
 - ⏳ LangChain + Web3 — connecting AI agents to blockchain data
 - ⏳ Smart contract security fundamentals
 
-I’m not fixated on specific job titles yet. The goal is:
+The goal is simple:
 - **Build skills that are real and useful**
 - **Ship small projects consistently**
-- **Let the right role find me once the skills and proof of work are strong**
+- **Let the right role find me once the proof of work is strong**
 
 ---
 
@@ -206,7 +215,7 @@ Multi-disease prediction engine — diabetes, heart disease, lung cancer via ML.
 
 <br/><br/>
 
-> I post daily builds on X — follow **[@GopichandAI](https://x.com/GopichandAI)** if you're building AI × Web3 publicly.  
+> I post daily builds on X — follow **[@GopichandAI](https://x.com/GopichandAI)** if you’re building AI × Web3 publicly.  
 > *Every thread is a proof-of-work artifact from something I actually built that day.*
 
 </div>
