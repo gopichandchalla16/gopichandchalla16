@@ -14,11 +14,86 @@
 <img src="https://img.shields.io/badge/Status-Learning_in_Public-2EA043?style=flat-square"/>
 </p>
 
-<!-- Visual stack preview using skill icons -->
-<br/>
-<img src="https://skillicons.dev/icons?i=python,solidity,ethereum,langchain&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,vscode,postgres,tensorflow&theme=dark" />
+<!-- AI x Web3 Creative Visual Banner -->
+<svg width="860" height="160" viewBox="0 0 860 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#0d2137"/>
+      <stop offset="100%" stop-color="#0a3d62"/>
+    </linearGradient>
+    <linearGradient id="line1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="160" fill="url(#bg)" rx="12"/>
+
+  <!-- Grid lines -->
+  <line x1="0" y1="40" x2="860" y2="40" stroke="#1e3a5f" stroke-width="0.5"/>
+  <line x1="0" y1="80" x2="860" y2="80" stroke="#1e3a5f" stroke-width="0.5"/>
+  <line x1="0" y1="120" x2="860" y2="120" stroke="#1e3a5f" stroke-width="0.5"/>
+  <line x1="215" y1="0" x2="215" y2="160" stroke="#1e3a5f" stroke-width="0.5"/>
+  <line x1="430" y1="0" x2="430" y2="160" stroke="#1e3a5f" stroke-width="0.5"/>
+  <line x1="645" y1="0" x2="645" y2="160" stroke="#1e3a5f" stroke-width="0.5"/>
+
+  <!-- LEFT: AI Brain node -->
+  <circle cx="140" cy="80" r="38" fill="none" stroke="#58a6ff" stroke-width="1.5" filter="url(#glow)"/>
+  <circle cx="140" cy="80" r="28" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
+  <text x="140" y="75" text-anchor="middle" font-family="monospace" font-size="18" fill="#58a6ff" filter="url(#glow)">🤖</text>
+  <text x="140" y="93" text-anchor="middle" font-family="monospace" font-size="9" fill="#90caf9">LLM Agent</text>
+
+  <!-- Connection line AI -> Bridge -->
+  <line x1="178" y1="80" x2="300" y2="80" stroke="url(#line1)" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <circle cx="220" cy="80" r="3" fill="#58a6ff" opacity="0.6"/>
+  <circle cx="260" cy="80" r="3" fill="#58a6ff" opacity="0.6"/>
+
+  <!-- CENTER: Bridge node -->
+  <rect x="295" y="58" width="70" height="44" rx="8" fill="#0d2137" stroke="#58a6ff" stroke-width="1.5" filter="url(#glow)"/>
+  <text x="330" y="78" text-anchor="middle" font-family="monospace" font-size="10" fill="#58a6ff" font-weight="bold">AI × Web3</text>
+  <text x="330" y="93" text-anchor="middle" font-family="monospace" font-size="8" fill="#90caf9">on-chain intel</text>
+
+  <!-- Connection line Bridge -> Blockchain -->
+  <line x1="365" y1="80" x2="490" y2="80" stroke="url(#line1)" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <circle cx="400" cy="80" r="3" fill="#4fc3f7" opacity="0.6"/>
+  <circle cx="445" cy="80" r="3" fill="#4fc3f7" opacity="0.6"/>
+
+  <!-- RIGHT: Blockchain hex node -->
+  <polygon points="570,50 598,64 598,96 570,110 542,96 542,64" fill="#0d2137" stroke="#4fc3f7" stroke-width="1.5" filter="url(#glow)"/>
+  <text x="570" y="77" text-anchor="middle" font-family="monospace" font-size="16" fill="#4fc3f7">⛓️</text>
+  <text x="570" y="94" text-anchor="middle" font-family="monospace" font-size="8" fill="#90caf9">Ethereum</text>
+
+  <!-- Side nodes -->
+  <circle cx="140" cy="25" r="10" fill="#0d1117" stroke="#58a6ff" stroke-width="1" opacity="0.6"/>
+  <text x="140" y="29" text-anchor="middle" font-family="monospace" font-size="8" fill="#58a6ff">RAG</text>
+  <line x1="140" y1="35" x2="140" y2="42" stroke="#58a6ff" stroke-width="1" stroke-dasharray="2 2"/>
+
+  <circle cx="140" cy="135" r="10" fill="#0d1117" stroke="#58a6ff" stroke-width="1" opacity="0.6"/>
+  <text x="140" y="139" text-anchor="middle" font-family="monospace" font-size="7" fill="#58a6ff">Claude</text>
+  <line x1="140" y1="118" x2="140" y2="125" stroke="#58a6ff" stroke-width="1" stroke-dasharray="2 2"/>
+
+  <circle cx="570" cy="25" r="10" fill="#0d1117" stroke="#4fc3f7" stroke-width="1" opacity="0.6"/>
+  <text x="570" y="29" text-anchor="middle" font-family="monospace" font-size="7" fill="#4fc3f7">Dune</text>
+  <line x1="570" y1="35" x2="570" y2="50" stroke="#4fc3f7" stroke-width="1" stroke-dasharray="2 2"/>
+
+  <circle cx="570" cy="135" r="10" fill="#0d1117" stroke="#4fc3f7" stroke-width="1" opacity="0.6"/>
+  <text x="570" y="139" text-anchor="middle" font-family="monospace" font-size="7" fill="#4fc3f7">EVM</text>
+  <line x1="570" y1="110" x2="570" y2="125" stroke="#4fc3f7" stroke-width="1" stroke-dasharray="2 2"/>
+
+  <!-- Right side label -->
+  <text x="730" y="65" text-anchor="middle" font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" filter="url(#glow)">@GopichandAI</text>
+  <text x="730" y="85" text-anchor="middle" font-family="monospace" font-size="10" fill="#90caf9">building in public</text>
+  <text x="730" y="103" text-anchor="middle" font-family="monospace" font-size="9" fill="#4fc3f7">day by day • commit by commit</text>
+  <line x1="660" y1="115" x2="800" y2="115" stroke="#1e3a5f" stroke-width="1"/>
+  <text x="730" y="130" text-anchor="middle" font-family="monospace" font-size="8" fill="#555">guntur, india 🇮🇳</text>
+</svg>
 
 </div>
 
