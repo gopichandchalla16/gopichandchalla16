@@ -24,15 +24,15 @@
 
 **Hey, I’m Gopichand Challa** — a CSE graduate from Guntur, India, learning **AI × Web3** in public.
 
-- Living in **Guntur, Andhra Pradesh, India 🇮🇳**
+- Living in **Benguluru, India 🇮🇳**
 - Currently exploring **AI agents, Ethereum, and on-chain data**
 - I document my journey every day on X: **[@GopichandAI](https://x.com/GopichandAI)**
 
 **What I’ve done so far**
 - Completed **B.Tech in Computer Science Engineering (2024)**
 - Worked as an **AI Intern** at Infosys Springboard
-- Worked as an **AI Intern** at Innomatics Research Labs
-- Reached the **Cardano Hackathon Grand Finale (IBW Bengaluru 2024)**
+- Worked as an **Data Science with Gen AI Intern** at Innomatics Research Labs
+- Reached the **Cardano Hackathon Grand Finale (IBW Bengaluru 2025)**
 
 **What I’m building right now**
 - An AI agent that can **read Ethereum wallets in plain English**
