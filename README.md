@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Status-Learning_in_Public-2EA043?style=flat-square"/>
 </p>
 
-<!-- AI x Web3 Creative Visual Banner -->
+<!-- AI x Web3 Creative SVG Visual -->
 <svg width="860" height="160" viewBox="0 0 860 160" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
@@ -32,67 +32,46 @@
       <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
-
-  <!-- Background -->
   <rect width="860" height="160" fill="url(#bg)" rx="12"/>
-
-  <!-- Grid lines -->
   <line x1="0" y1="40" x2="860" y2="40" stroke="#1e3a5f" stroke-width="0.5"/>
   <line x1="0" y1="80" x2="860" y2="80" stroke="#1e3a5f" stroke-width="0.5"/>
   <line x1="0" y1="120" x2="860" y2="120" stroke="#1e3a5f" stroke-width="0.5"/>
   <line x1="215" y1="0" x2="215" y2="160" stroke="#1e3a5f" stroke-width="0.5"/>
   <line x1="430" y1="0" x2="430" y2="160" stroke="#1e3a5f" stroke-width="0.5"/>
   <line x1="645" y1="0" x2="645" y2="160" stroke="#1e3a5f" stroke-width="0.5"/>
-
-  <!-- LEFT: AI Brain node -->
   <circle cx="140" cy="80" r="38" fill="none" stroke="#58a6ff" stroke-width="1.5" filter="url(#glow)"/>
   <circle cx="140" cy="80" r="28" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
   <text x="140" y="75" text-anchor="middle" font-family="monospace" font-size="18" fill="#58a6ff" filter="url(#glow)">🤖</text>
   <text x="140" y="93" text-anchor="middle" font-family="monospace" font-size="9" fill="#90caf9">LLM Agent</text>
-
-  <!-- Connection line AI -> Bridge -->
   <line x1="178" y1="80" x2="300" y2="80" stroke="url(#line1)" stroke-width="1.5" stroke-dasharray="4 3"/>
   <circle cx="220" cy="80" r="3" fill="#58a6ff" opacity="0.6"/>
   <circle cx="260" cy="80" r="3" fill="#58a6ff" opacity="0.6"/>
-
-  <!-- CENTER: Bridge node -->
   <rect x="295" y="58" width="70" height="44" rx="8" fill="#0d2137" stroke="#58a6ff" stroke-width="1.5" filter="url(#glow)"/>
   <text x="330" y="78" text-anchor="middle" font-family="monospace" font-size="10" fill="#58a6ff" font-weight="bold">AI × Web3</text>
   <text x="330" y="93" text-anchor="middle" font-family="monospace" font-size="8" fill="#90caf9">on-chain intel</text>
-
-  <!-- Connection line Bridge -> Blockchain -->
   <line x1="365" y1="80" x2="490" y2="80" stroke="url(#line1)" stroke-width="1.5" stroke-dasharray="4 3"/>
   <circle cx="400" cy="80" r="3" fill="#4fc3f7" opacity="0.6"/>
   <circle cx="445" cy="80" r="3" fill="#4fc3f7" opacity="0.6"/>
-
-  <!-- RIGHT: Blockchain hex node -->
   <polygon points="570,50 598,64 598,96 570,110 542,96 542,64" fill="#0d2137" stroke="#4fc3f7" stroke-width="1.5" filter="url(#glow)"/>
   <text x="570" y="77" text-anchor="middle" font-family="monospace" font-size="16" fill="#4fc3f7">⛓️</text>
   <text x="570" y="94" text-anchor="middle" font-family="monospace" font-size="8" fill="#90caf9">Ethereum</text>
-
-  <!-- Side nodes -->
   <circle cx="140" cy="25" r="10" fill="#0d1117" stroke="#58a6ff" stroke-width="1" opacity="0.6"/>
   <text x="140" y="29" text-anchor="middle" font-family="monospace" font-size="8" fill="#58a6ff">RAG</text>
   <line x1="140" y1="35" x2="140" y2="42" stroke="#58a6ff" stroke-width="1" stroke-dasharray="2 2"/>
-
   <circle cx="140" cy="135" r="10" fill="#0d1117" stroke="#58a6ff" stroke-width="1" opacity="0.6"/>
   <text x="140" y="139" text-anchor="middle" font-family="monospace" font-size="7" fill="#58a6ff">Claude</text>
   <line x1="140" y1="118" x2="140" y2="125" stroke="#58a6ff" stroke-width="1" stroke-dasharray="2 2"/>
-
   <circle cx="570" cy="25" r="10" fill="#0d1117" stroke="#4fc3f7" stroke-width="1" opacity="0.6"/>
   <text x="570" y="29" text-anchor="middle" font-family="monospace" font-size="7" fill="#4fc3f7">Dune</text>
   <line x1="570" y1="35" x2="570" y2="50" stroke="#4fc3f7" stroke-width="1" stroke-dasharray="2 2"/>
-
   <circle cx="570" cy="135" r="10" fill="#0d1117" stroke="#4fc3f7" stroke-width="1" opacity="0.6"/>
   <text x="570" y="139" text-anchor="middle" font-family="monospace" font-size="7" fill="#4fc3f7">EVM</text>
   <line x1="570" y1="110" x2="570" y2="125" stroke="#4fc3f7" stroke-width="1" stroke-dasharray="2 2"/>
-
-  <!-- Right side label -->
   <text x="730" y="65" text-anchor="middle" font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" filter="url(#glow)">@GopichandAI</text>
   <text x="730" y="85" text-anchor="middle" font-family="monospace" font-size="10" fill="#90caf9">building in public</text>
   <text x="730" y="103" text-anchor="middle" font-family="monospace" font-size="9" fill="#4fc3f7">day by day • commit by commit</text>
   <line x1="660" y1="115" x2="800" y2="115" stroke="#1e3a5f" stroke-width="1"/>
-  <text x="730" y="130" text-anchor="middle" font-family="monospace" font-size="8" fill="#555">guntur, india 🇮🇳</text>
+  <text x="730" y="130" text-anchor="middle" font-family="monospace" font-size="8" fill="#555">bengaluru, india 🇮🇳</text>
 </svg>
 
 </div>
@@ -101,9 +80,9 @@
 
 ## `> whoami`
 
-**Hey, I’m Gopichand Challa** — a CSE graduate from Guntur, India, learning **AI × Web3** in public.
+**Hey, I’m Gopichand Challa** — a CSE graduate from Bengaluru, India, learning **AI × Web3** in public.
 
-- Living in **Guntur, Andhra Pradesh, India 🇮🇳**
+- 📍 Living in **Bengaluru, India 🇮🇳**
 - Currently exploring **AI agents, Ethereum, and on-chain data**
 - I document my journey every day on X: **[@GopichandAI](https://x.com/GopichandAI)**
 
@@ -160,6 +139,22 @@ The goal is simple:
 | 05 | Mar 08, 2026 | Dune Analytics · On-Chain SQL | 3 public Ethereum dashboards | ⏳ |
 | 06 | Mar 09, 2026 | LangChain Tools · Web3.py Fusion | AI Wallet Analyzer CLI | ⏳ |
 | 07 | Mar 10, 2026 | LangGraph · Multi-Step On-Chain Agent | AI On-Chain Research Agent v1 | ⏳ |
+
+---
+
+## `> github_stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gopichandchalla16&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=4fc3f7&text_color=90caf9&ring_color=58a6ff" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopichandchalla16&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=90caf9" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gopichandchalla16&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=4fc3f7&currStreakLabel=58a6ff&sideLabels=90caf9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
+
+</div>
 
 ---
 
