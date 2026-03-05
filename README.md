@@ -25,29 +25,17 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```python
-class GopichandChalla:
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpiqy/giphy.gif" width="280" />
 
-    name       = "Gopichand Challa"
-    role       = "AI Engineer & Web3 Builder"
-    location   = "India 🇮🇳"
-    niche      = "AI × Web3 — on-chain intelligence"
+- 👤 **Gopichand Challa** — CSE Graduate from India
+- 🎯 **Niche** — AI × Web3 — building on-chain intelligence
+- 🔥 **Currently** — Learning Web3 in public, one day at a time
+- 🤖 **Building** — AI Agents that run on Ethereum
+- 📊 **Sharing** — Daily proof of work on [@GopichandAI](https://x.com/GopichandAI)
+- 💼 **Open to** — AI Engineer · Web3 Developer · AI × Web3 Hybrid Roles
+- 💬 **Motto** — *"Proof of work is not just for Bitcoin."*
 
-    current    = [
-        "Learning Web3 from zero → builder in public",
-        "Building AI Agents that run on-chain",
-        "Posting daily proof of work on X @GopichandAI"
-    ]
-
-    stack = {
-        "AI"   : ["LLMs", "LangChain", "RAG", "Agents", "Python"],
-        "Web3" : ["Ethereum", "Solidity", "Web3.py", "MetaMask"],
-        "Tools": ["VS Code", "Docker", "Git", "Streamlit", "FastAPI"]
-    }
-
-    open_to    = ["AI Engineer", "Web3 Developer", "AI × Web3 Roles"]
-    motto      = "Proof of work is not just for Bitcoin."
-```
+<br clear="right"/>
 
 ---
 
@@ -205,7 +193,7 @@ Real-time stock sentiment analysis and AI predictions — Infosys internship.
 <div align="center">
 
 <a href="https://x.com/GopichandAI">
-  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-%40GopichandAI-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/X-%40GopichandAI-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/gopichandchalla">
