@@ -59,7 +59,8 @@ Approach : "Proof of work is not just for Bitcoin."
 <td width="50%" valign="top">
 
 ### 📡 Learning Roadmap
-```
+
+```text
 Phase 1 → Blockchain Fundamentals     ✅ Done
 Phase 2 → Solidity + EVM              🔄 Active
 Phase 3 → Python × Web3.py            ⏳ Next
@@ -73,7 +74,8 @@ Phase 7 → Bittensor + ZK-ML           ⏳ Next
 <td width="50%" valign="top">
 
 ### 🎯 Job Targets
-```
+
+```text
 Community Manager    → Apply Week 4
 On-Chain Analyst     → Apply Week 6
 Developer Relations  → Apply Week 8
@@ -101,7 +103,7 @@ Market     : Global (India ✓ included)
 | 03 | Mar 06, 2026 | Solidity · EVM · Contract Structure | First contract deployed on Remix → Sepolia | 🔄 |
 | 04 | Mar 07, 2026 | ERC-20 Standard · ABIs · Token Logic | GopiToken deployed — queried from Web3.py | ⏳ |
 | 05 | Mar 08, 2026 | Dune Analytics · On-Chain SQL | 3 public Ethereum dashboards | ⏳ |
-| 06 | Mar 09, 2026 | LangChain Tools + Web3.py Fusion | AI Wallet Analyzer CLI | ⏳ |
+| 06 | Mar 09, 2026 | LangChain Tools · Web3.py Fusion | AI Wallet Analyzer CLI | ⏳ |
 | 07 | Mar 10, 2026 | LangGraph · Multi-Step On-Chain Agent | AI On-Chain Research Agent v1 | ⏳ |
 
 ---
@@ -201,26 +203,6 @@ Multi-disease prediction engine — diabetes, heart disease, lung cancer via ML.
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 [![PostgreSQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-
-</div>
-
----
-
-## `> github_trophies`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gopichandchalla16&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/gopichandchalla16)
-
-</div>
-
----
-
-## `> contribution_snake`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/gopichandchalla16/gopichandchalla16/output/github-snake-dark.svg" alt="contribution snake" width="100%"/>
 
 </div>
 
