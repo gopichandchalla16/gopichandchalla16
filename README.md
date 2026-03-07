@@ -11,7 +11,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Building-In_Public_Daily-FFB000?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Learning_in_Public-2EA043?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Day_04_Done_✅-2EA043?style=flat-square"/>
 </p>
 
 <!-- AI x Web3 Creative SVG Visual -->
@@ -71,7 +71,7 @@
   <text x="730" y="85" text-anchor="middle" font-family="monospace" font-size="10" fill="#90caf9">building in public</text>
   <text x="730" y="103" text-anchor="middle" font-family="monospace" font-size="9" fill="#4fc3f7">day by day • commit by commit</text>
   <line x1="660" y1="115" x2="800" y2="115" stroke="#1e3a5f" stroke-width="1"/>
-  <text x="730" y="130" text-anchor="middle" font-family="monospace" font-size="8" fill="#555">bengaluru, india 🇮🇳</text>
+  <text x="730" y="130" text-anchor="middle" font-family="monospace" font-size="8" fill="#555">guntur, india 🇮🇳</text>
 </svg>
 
 </div>
@@ -80,48 +80,28 @@
 
 ## `> whoami`
 
-**Hey, I’m Gopichand Challa** — a CSE graduate from Bengaluru, India, learning **AI × Web3** in public.
+**Hey, I'm Gopichand Challa** — a CSE graduate from India, building **AI × Web3** in public every single day.
 
-- 📍 Living in **Bengaluru, India 🇮🇳**
-- Currently exploring **AI agents, Ethereum, and on-chain data**
+- 📍 Living in **Guntur, Andhra Pradesh, India 🇮🇳**
+- Currently exploring **AI agents, Ethereum, ERC-20 tokens, and on-chain data**
 - I document my journey every day on X: **[@GopichandAI](https://x.com/GopichandAI)**
 
-**What I’ve done so far**
+**What I've done so far**
 - Completed **B.Tech in Computer Science Engineering (2024)**
 - Worked as an **AI Intern** at Infosys Springboard
 - Worked as a **Data Science with Gen AI Intern** at Innomatics Research Labs
 - Reached the **Cardano Hackathon Grand Finale (IBW Bengaluru 2025)**
 
-**What I’m building right now**
-- An AI agent that can **read Ethereum wallets in plain English**
-- **On-chain data pipelines** using Dune Analytics + Python
-- A simple **smart contract security helper** powered by Slither + Claude
+**What I'm building right now**
+- ✅ **GopichandToken ($GOPI)** — ERC-20 token deployed from scratch
+- 🔄 **AI agent that reads Ethereum wallets** in plain English
+- ⏳ **On-chain data pipelines** using Dune Analytics + Python
+- ⏳ A simple **smart contract security helper** powered by Slither + Claude
 
-**Tools I’m learning & using**
+**Tools I'm learning & using**
 - **AI:** LangChain, LangGraph, Claude API, RAG, Python
-- **Web3:** Solidity, Web3.py, Ethereum, Dune Analytics
+- **Web3:** Solidity, Web3.py, Ethereum, Remix IDE, MetaMask
 - **Tools:** FastAPI, Streamlit, Docker, Git, HuggingFace
-
-I’m not trying to look like a senior dev — I’m just **showing real progress, day by day.**
-
----
-
-## `> current_focus`
-
-Right now I’m in the **foundations + first projects** phase.
-
-**Learning roadmap**
-- ✅ Blockchain basics — blocks, hashes, PoW vs PoS, wallets, transactions
-- 🔄 Solidity and the EVM — writing and deploying simple contracts
-- ⏳ Python × Web3.py — reading chain data from scripts
-- ⏳ On‑chain data — Dune SQL dashboards and analytics
-- ⏳ LangChain + Web3 — connecting AI agents to blockchain data
-- ⏳ Smart contract security fundamentals
-
-The goal is simple:
-- **Build skills that are real and useful**
-- **Ship small projects consistently**
-- **Let the right role find me once the proof of work is strong**
 
 ---
 
@@ -132,29 +112,61 @@ The goal is simple:
 
 | Day | Date | What I Studied | What I Built | Status |
 |:---:|:---|:---|:---|:---:|
-| 01 | Mar 04, 2026 | Wallets · Transactions · MetaMask | MetaMask installed · First testnet TX on Sepolia | ✅ |
+| 01 | Mar 04, 2026 | Wallets · Transactions · MetaMask | MetaMask setup · First testnet TX on Sepolia | ✅ |
 | 02 | Mar 05, 2026 | Hashing · Blocks · Chains · PoW vs PoS | [Mini Blockchain — Python, tamper detection](https://github.com/gopichandchalla16/web3-ai-learning-journey/blob/main/day-02-hashing-blocks-chains/blockchain.py) | ✅ |
-| 03 | Mar 06, 2026 | Solidity · EVM · Contract Structure | First contract deployed on Remix → Sepolia | 🔄 |
-| 04 | Mar 07, 2026 | ERC-20 Standard · ABIs · Token Logic | GopiToken deployed — queried from Web3.py | ⏳ |
-| 05 | Mar 08, 2026 | Dune Analytics · On-Chain SQL | 3 public Ethereum dashboards | ⏳ |
-| 06 | Mar 09, 2026 | LangChain Tools · Web3.py Fusion | AI Wallet Analyzer CLI | ⏳ |
-| 07 | Mar 10, 2026 | LangGraph · Multi-Step On-Chain Agent | AI On-Chain Research Agent v1 | ⏳ |
+| 03 | Mar 06, 2026 | Solidity · EVM · Contract Structure | [HelloWorld.sol + SimpleStorage.sol deployed](https://github.com/gopichandchalla16/web3-ai-learning-journey/tree/main/day-03-smart-contracts) | ✅ |
+| 04 | Mar 07, 2026 | ERC-20 Standard · Token Logic · DeFi patterns | [GopichandToken ($GOPI) — transfer ✅ approve ✅ burn ✅](https://github.com/gopichandchalla16/web3-ai-learning-journey/tree/main/day-04-erc20-tokens) | ✅ |
+| 05 | Mar 08, 2026 | DeFi · Uniswap · Liquidity Pools | Coming | ⏳ |
+| 06 | Mar 09, 2026 | AI Agent on-chain | Coming | ⏳ |
+| 07 | Mar 10, 2026 | Full AI × Web3 mini project | Coming | ⏳ |
 
 ---
 
-## `> github_stats`
+## `> current_focus`
 
-<div align="center">
+Right now I'm in the **foundations + first projects** phase.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gopichandchalla16&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=4fc3f7&text_color=90caf9&ring_color=58a6ff" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopichandchalla16&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=90caf9" />
+**Learning roadmap**
+- ✅ Blockchain basics — blocks, hashes, PoW vs PoS, wallets, transactions
+- ✅ Solidity and the EVM — writing and deploying simple contracts
+- ✅ ERC-20 tokens — built GopichandToken ($GOPI) from scratch
+- 🔄 Python × Web3.py — reading chain data from scripts
+- ⏳ On-chain data — Dune SQL dashboards and analytics
+- ⏳ LangChain + Web3 — connecting AI agents to blockchain data
+- ⏳ Smart contract security fundamentals
 
-<br/><br/>
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gopichandchalla16&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=4fc3f7&currStreakLabel=58a6ff&sideLabels=90caf9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
+## `> ai_x_web3_stack`
 
-</div>
+> The niche I'm building in: **AI agents that talk to blockchains.**  
+> This is the intersection nobody is fully building yet.
+
+```
+┌─────────────────────────────────────────────────┐
+│           AI × Web3 Builder Stack               │
+├─────────────────┬───────────────────────────────┤
+│   AI LAYER      │   WEB3 LAYER                  │
+├─────────────────┼───────────────────────────────┤
+│ LangChain       │ Solidity                      │
+│ LangGraph       │ Web3.py                       │
+│ Claude API      │ Ethereum / EVM                │
+│ RAG pipelines   │ ERC-20 tokens                 │
+│ Python agents   │ MetaMask + Remix IDE           │
+│ HuggingFace     │ Dune Analytics                │
+├─────────────────┴───────────────────────────────┤
+│  GOAL: AI agents that read, query, and act      │
+│        on blockchain data in plain English      │
+└─────────────────────────────────────────────────┘
+```
+
+---
+
+## `> tokens_built`
+
+| Token | Symbol | Supply | Deployed | Code |
+|---|---|---|---|---|
+| GopichandToken | $GOPI | 1,000,000 | Mar 07, 2026 | [GopichandToken.sol](https://github.com/gopichandchalla16/web3-ai-learning-journey/blob/main/day-04-erc20-tokens/GopichandToken.sol) |
 
 ---
 
@@ -167,7 +179,7 @@ The goal is simple:
 
 ### 🤖 [AI × Web3 Learning Journey](https://github.com/gopichandchalla16/web3-ai-learning-journey)
 Daily proof-of-work repo — every day = one folder, one build, one commit.  
-Covers the full 7‑phase AI × Web3 roadmap.
+Covers the full 7-phase AI × Web3 roadmap.
 
 `Python` `Solidity` `Web3.py` `LangChain` `Dune SQL`
 
@@ -289,7 +301,7 @@ Multi-disease prediction engine — diabetes, heart disease, lung cancer via ML.
 
 <br/><br/>
 
-> I post daily builds on X — follow **[@GopichandAI](https://x.com/GopichandAI)** if you’re building AI × Web3 publicly.  
+> I post daily builds on X — follow **[@GopichandAI](https://x.com/GopichandAI)** if you're building AI × Web3 publicly.  
 > *Every thread is a proof-of-work artifact from something I actually built that day.*
 
 </div>
