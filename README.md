@@ -11,7 +11,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Building-In_Public_Daily-FFB000?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Day_04_Done_✅-2EA043?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Day_05_Done_✅-2EA043?style=flat-square"/>
 </p>
 
 <!-- AI x Web3 Creative SVG Visual -->
@@ -71,7 +71,7 @@
   <text x="730" y="85" text-anchor="middle" font-family="monospace" font-size="10" fill="#90caf9">building in public</text>
   <text x="730" y="103" text-anchor="middle" font-family="monospace" font-size="9" fill="#4fc3f7">day by day • commit by commit</text>
   <line x1="660" y1="115" x2="800" y2="115" stroke="#1e3a5f" stroke-width="1"/>
-  <text x="730" y="130" text-anchor="middle" font-family="monospace" font-size="8" fill="#555">guntur, india 🇮🇳</text>
+  <text x="730" y="130" text-anchor="middle" font-family="monospace" font-size="8" fill="#555">bengaluru, india 🇮🇳</text>
 </svg>
 
 </div>
@@ -82,7 +82,7 @@
 
 **Hey, I'm Gopichand Challa** — a CSE graduate from India, building **AI × Web3** in public every single day.
 
-- 📍 Living in **Guntur, Andhra Pradesh, India 🇮🇳**
+- 📍 Living in **Bengaluru, Karnataka, India 🇮🇳**
 - Currently exploring **AI agents, Ethereum, ERC-20 tokens, and on-chain data**
 - I document my journey every day on X: **[@GopichandAI](https://x.com/GopichandAI)**
 
@@ -94,13 +94,14 @@
 
 **What I'm building right now**
 - ✅ **GopichandToken ($GOPI)** — ERC-20 token deployed from scratch
+- ✅ **Web3.py on-chain reader** — Python reads $GOPI live from Sepolia via Alchemy
 - 🔄 **AI agent that reads Ethereum wallets** in plain English
 - ⏳ **On-chain data pipelines** using Dune Analytics + Python
 - ⏳ A simple **smart contract security helper** powered by Slither + Claude
 
 **Tools I'm learning & using**
 - **AI:** LangChain, LangGraph, Claude API, RAG, Python
-- **Web3:** Solidity, Web3.py, Ethereum, Remix IDE, MetaMask
+- **Web3:** Solidity, Web3.py, Ethereum, Remix IDE, MetaMask, Alchemy
 - **Tools:** FastAPI, Streamlit, Docker, Git, HuggingFace
 
 ---
@@ -116,7 +117,7 @@
 | 02 | Mar 05, 2026 | Hashing · Blocks · Chains · PoW vs PoS | [Mini Blockchain — Python, tamper detection](https://github.com/gopichandchalla16/web3-ai-learning-journey/blob/main/day-02-hashing-blocks-chains/blockchain.py) | ✅ |
 | 03 | Mar 06, 2026 | Solidity · EVM · Contract Structure | [HelloWorld.sol + SimpleStorage.sol deployed](https://github.com/gopichandchalla16/web3-ai-learning-journey/tree/main/day-03-smart-contracts) | ✅ |
 | 04 | Mar 07, 2026 | ERC-20 Standard · Token Logic · DeFi patterns | [GopichandToken ($GOPI) — transfer ✅ approve ✅ burn ✅](https://github.com/gopichandchalla16/web3-ai-learning-journey/tree/main/day-04-erc20-tokens) | ✅ |
-| 05 | Mar 08, 2026 | DeFi · Uniswap · Liquidity Pools | Coming | ⏳ |
+| 05 | Mar 08, 2026 | Web3.py · On-Chain Reads · Alchemy RPC | [query_gopi_token.py — Python reads $GOPI live on Sepolia](https://github.com/gopichandchalla16/web3-ai-learning-journey/tree/main/day-05-web3py-onchain-reads) | ✅ |
 | 06 | Mar 09, 2026 | AI Agent on-chain | Coming | ⏳ |
 | 07 | Mar 10, 2026 | Full AI × Web3 mini project | Coming | ⏳ |
 
@@ -130,7 +131,7 @@ Right now I'm in the **foundations + first projects** phase.
 - ✅ Blockchain basics — blocks, hashes, PoW vs PoS, wallets, transactions
 - ✅ Solidity and the EVM — writing and deploying simple contracts
 - ✅ ERC-20 tokens — built GopichandToken ($GOPI) from scratch
-- 🔄 Python × Web3.py — reading chain data from scripts
+- ✅ Python × Web3.py — reading chain data from scripts via Alchemy
 - ⏳ On-chain data — Dune SQL dashboards and analytics
 - ⏳ LangChain + Web3 — connecting AI agents to blockchain data
 - ⏳ Smart contract security fundamentals
