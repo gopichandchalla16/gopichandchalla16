@@ -11,7 +11,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Building-In_Public_Daily-FFB000?style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Day_08_Done_✅-2EA043?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Day_08_Done_%E2%9C%85-2EA043?style=flat-square"/>
 </p>
 
 <!-- AI x Web3 Creative SVG Visual -->
@@ -41,19 +41,19 @@
   <line x1="645" y1="0" x2="645" y2="160" stroke="#1e3a5f" stroke-width="0.5"/>
   <circle cx="140" cy="80" r="38" fill="none" stroke="#58a6ff" stroke-width="1.5" filter="url(#glow)"/>
   <circle cx="140" cy="80" r="28" fill="#0d1117" stroke="#58a6ff" stroke-width="1"/>
-  <text x="140" y="75" text-anchor="middle" font-family="monospace" font-size="18" fill="#58a6ff" filter="url(#glow)">🤖</text>
+  <text x="140" y="75" text-anchor="middle" font-family="monospace" font-size="18" fill="#58a6ff" filter="url(#glow)">&#x1F916;</text>
   <text x="140" y="93" text-anchor="middle" font-family="monospace" font-size="9" fill="#90caf9">LLM Agent</text>
   <line x1="178" y1="80" x2="300" y2="80" stroke="url(#line1)" stroke-width="1.5" stroke-dasharray="4 3"/>
   <circle cx="220" cy="80" r="3" fill="#58a6ff" opacity="0.6"/>
   <circle cx="260" cy="80" r="3" fill="#58a6ff" opacity="0.6"/>
   <rect x="295" y="58" width="70" height="44" rx="8" fill="#0d2137" stroke="#58a6ff" stroke-width="1.5" filter="url(#glow)"/>
-  <text x="330" y="78" text-anchor="middle" font-family="monospace" font-size="10" fill="#58a6ff" font-weight="bold">AI × Web3</text>
+  <text x="330" y="78" text-anchor="middle" font-family="monospace" font-size="10" fill="#58a6ff" font-weight="bold">AI x Web3</text>
   <text x="330" y="93" text-anchor="middle" font-family="monospace" font-size="8" fill="#90caf9">on-chain intel</text>
   <line x1="365" y1="80" x2="490" y2="80" stroke="url(#line1)" stroke-width="1.5" stroke-dasharray="4 3"/>
   <circle cx="400" cy="80" r="3" fill="#4fc3f7" opacity="0.6"/>
   <circle cx="445" cy="80" r="3" fill="#4fc3f7" opacity="0.6"/>
   <polygon points="570,50 598,64 598,96 570,110 542,96 542,64" fill="#0d2137" stroke="#4fc3f7" stroke-width="1.5" filter="url(#glow)"/>
-  <text x="570" y="77" text-anchor="middle" font-family="monospace" font-size="16" fill="#4fc3f7">⛓️</text>
+  <text x="570" y="77" text-anchor="middle" font-family="monospace" font-size="16" fill="#4fc3f7">&#x26D3;</text>
   <text x="570" y="94" text-anchor="middle" font-family="monospace" font-size="8" fill="#90caf9">Ethereum</text>
   <circle cx="140" cy="25" r="10" fill="#0d1117" stroke="#58a6ff" stroke-width="1" opacity="0.6"/>
   <text x="140" y="29" text-anchor="middle" font-family="monospace" font-size="8" fill="#58a6ff">RAG</text>
@@ -69,9 +69,9 @@
   <line x1="570" y1="110" x2="570" y2="125" stroke="#4fc3f7" stroke-width="1" stroke-dasharray="2 2"/>
   <text x="730" y="65" text-anchor="middle" font-family="monospace" font-size="13" fill="#58a6ff" font-weight="bold" filter="url(#glow)">@GopichandAI</text>
   <text x="730" y="85" text-anchor="middle" font-family="monospace" font-size="10" fill="#90caf9">building in public</text>
-  <text x="730" y="103" text-anchor="middle" font-family="monospace" font-size="9" fill="#4fc3f7">day by day • commit by commit</text>
+  <text x="730" y="103" text-anchor="middle" font-family="monospace" font-size="9" fill="#4fc3f7">day by day &#x2022; commit by commit</text>
   <line x1="660" y1="115" x2="800" y2="115" stroke="#1e3a5f" stroke-width="1"/>
-  <text x="730" y="130" text-anchor="middle" font-family="monospace" font-size="8" fill="#555">guntur, andhra pradesh, india 🇮🇳</text>
+  <text x="730" y="130" text-anchor="middle" font-family="monospace" font-size="8" fill="#555">bengaluru, india &#x1F1EE;&#x1F1F3;</text>
 </svg>
 
 </div>
@@ -80,11 +80,11 @@
 
 ## `> whoami`
 
-**Hey, I'm Gopichand Challa** — a CSE graduate from India, building **AI × Web3** in public every single day.
+**Hey, I'm Gopichand Challa** — a CSE graduate from India, building **AI x Web3** in public every single day.
 
 > **"I build AI agents that read and act on smart contracts."**
 
-- 📍 Based in **Guntur, Andhra Pradesh, India 🇮🇳**
+- 📍 Based in **Bengaluru, India 🇮🇳**
 - Building at the intersection of **LangChain + Solidity + on-chain data**
 - 8-day consecutive GitHub commit streak — no days off
 - Daily proof-of-work on X: **[@GopichandAI](https://x.com/GopichandAI)**
@@ -123,8 +123,8 @@
 | 04 | Mar 07, 2026 | ERC-20 Standard · Token Logic · DeFi patterns | [GopichandToken ($GOPI) — transfer ✅ approve ✅ burn ✅](https://github.com/gopichandchalla16/web3-ai-learning-journey/tree/main/day-04-erc20-tokens) | ✅ |
 | 05 | Mar 09, 2026 | Web3.py · On-Chain Reads · Alchemy RPC | [query_gopi_token.py — Python reads $GOPI live on Sepolia](https://github.com/gopichandchalla16/web3-ai-learning-journey/tree/main/day-05-web3py-onchain-reads) | ✅ |
 | 06 | Mar 10, 2026 | LangChain Agent Architecture · ReAct Loop | [AI Agent on-chain — LangChain + Web3.py wallet reader](https://github.com/gopichandchalla16/web3-ai-learning-journey/tree/main/day-06-ai-agent-onchain) | ✅ |
-| 07 | Mar 11, 2026 | AI × Web3 Full Project · Streamlit Dashboard | [AI Wallet Analyser — plain English on-chain reports](https://github.com/gopichandchalla16/web3-ai-learning-journey/tree/main/day-07-full-project) | ✅ |
-| 08 | Mar 14, 2026 | Escrow Contracts · msg.sender · AI Arbiter | [Escrow.sol + AI Dispute Agent — LangChain decides RELEASE or REFUND](https://github.com/gopichandchalla16/web3-ai-learning-journey/tree/main/day-08-escrow-ai-dispute) | ✅ |
+| 07 | Mar 11, 2026 | AI x Web3 Full Project · Streamlit Dashboard | [AI Wallet Analyser — plain English on-chain reports](https://github.com/gopichandchalla16/web3-ai-learning-journey/tree/main/day-07-full-project) | ✅ |
+| 08 | Mar 14, 2026 | Escrow Contracts · msg.sender · AI Arbiter | Escrow.sol + AI Dispute Agent — LangChain decides RELEASE or REFUND *(pushing code today)* | ✅ |
 | 09 | Mar 15, 2026 | Sepolia Deploy · Web3.py Contract Calls | Coming | ⏳ |
 | 10 | Mar 16, 2026 | Async Web3 · RPC Error Handling | Coming | ⏳ |
 
@@ -132,13 +132,13 @@
 
 ## `> current_focus`
 
-Currently in **Week 2 — AI × Web3 Integration phase.**
+Currently in **Week 2 — AI x Web3 Integration phase.**
 
 **Learning roadmap**
 - ✅ Blockchain basics — blocks, hashes, PoW vs PoS, wallets, transactions
 - ✅ Solidity and the EVM — writing and deploying smart contracts
 - ✅ ERC-20 tokens — built GopichandToken ($GOPI) from scratch
-- ✅ Python × Web3.py — reading chain data from scripts via Alchemy
+- ✅ Python x Web3.py — reading chain data from scripts via Alchemy
 - ✅ LangChain agents — AI reading live on-chain wallet data
 - ✅ Escrow contract — AI arbiter resolving disputes on-chain
 - 🔄 DeFi protocols — Uniswap V2 price reads, event log parsing
@@ -177,7 +177,7 @@ Currently in **Week 2 — AI × Web3 Integration phase.**
 
 ```
 ┌─────────────────────────────────────────────────┐
-│           AI × Web3 Builder Stack               │
+│           AI x Web3 Builder Stack               │
 ├─────────────────┬───────────────────────────────┤
 │   AI LAYER      │   WEB3 LAYER                  │
 ├─────────────────┼───────────────────────────────┤
@@ -210,7 +210,7 @@ Currently in **Week 2 — AI × Web3 Integration phase.**
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [AI × Web3 Learning Journey](https://github.com/gopichandchalla16/web3-ai-learning-journey)
+### 🤖 [AI x Web3 Learning Journey](https://github.com/gopichandchalla16/web3-ai-learning-journey)
 Daily proof-of-work repo — every day = one folder, one build, one commit.  
 8-day streak. Building toward 3 flagship projects.
 
@@ -334,7 +334,7 @@ Multi-disease prediction engine — diabetes, heart disease, lung cancer via ML.
 
 <br/><br/>
 
-> I post daily builds on X — follow **[@GopichandAI](https://x.com/GopichandAI)** if you're building AI × Web3 publicly.  
+> I post daily builds on X — follow **[@GopichandAI](https://x.com/GopichandAI)** if you're building AI x Web3 publicly.  
 > *Every thread is a proof-of-work artifact from something I actually built that day.*
 
 </div>
