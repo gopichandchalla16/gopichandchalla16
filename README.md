@@ -32,23 +32,59 @@
 
 ---
 
-## ⚡ whoami
+## ⚡ About Me
 
-```typescript
-const gopichand = {
-  name      : "Gopichand Challa",
-  role      : "AI × Web3 Engineer",
-  location  : "India 🇮🇳",
-  chains    : ["Solana", "Ethereum", "Midnight ZK", "Algorand"],
-  focus     : "Privacy-preserving AI agents + on-chain execution",
-  currently : "31/100 Days of Solana — Token Extensions, SPL, ZK",
-  writing   : "Weekly on DEV.to — AI × Web3 deep dives",
-  openTo    : ["AI × Web3 Engineer", "DevRel", "Protocol Engineer", "Freelance builds"],
-  motto     : "Proof of work, every single day.",
-}
-```
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-> **"I build AI systems that don't just read the blockchain — they act on it."**
+### 👋 Hey, I'm Gopichand
+
+I'm an **AI × Web3 Engineer** from India, obsessed with one question:
+> *What happens when AI agents don't just query blockchains — but own wallets, sign transactions, and operate autonomously on-chain?*
+
+I build systems at that frontier — combining **large language models**, **zero-knowledge proofs**, and **on-chain execution** into real, shipped products.
+
+- 🔗 **Chains:** Solana · Ethereum · Midnight ZK · Algorand
+- 🧠 **AI Stack:** LangChain · HuggingFace · GRPO RL · RAG Pipelines
+- 🔐 **ZK/Privacy:** Midnight blockchain · ZK proofs · Confidential state
+- 📝 **Writing:** Weekly deep-dives on [DEV.to](https://dev.to/gopichand_dev)
+- 📊 **Now:** Day **31/100** of Solana — Token-2022, Transfer Fees, SPL
+- 🎯 **Open to:** AI × Web3 Engineer · DevRel · Protocol Engineer
+
+<br clear="right"/>
+
+### 🛠️ Core Skills
+
+<div align="center">
+
+**Blockchain & Web3**
+
+<img src="https://skillicons.dev/icons?i=solana,ts,rust,py,js&theme=dark" />
+
+<br/>
+
+| ⛓️ Solana | 🔷 Ethereum / Solidity | 🔐 Midnight ZK | 🔵 Algorand |
+|--------|---------------------|------------|----------|
+| SPL Tokens · Token-2022 · Transfer Fees · Token Extensions | ERC-20 · ERC-721 · Smart Contracts · Hardhat | ZK Proofs · Privacy-preserving state · Compact lang | ASA · ABI · RWA Tokenization |
+
+<br/>
+
+**AI & Machine Learning**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+
+<br/>
+
+| 🤖 LLMs & Agents | 📊 ML / Training | 🔍 RAG / Search |
+|----------------|--------------|-------------|
+| LangChain · OpenAI · Groq · GRPO RL · LoRA fine-tuning | scikit-learn · TensorFlow · Qwen · HuggingFace | FAISS · Vector DBs · Embeddings · Retrieval pipelines |
+
+<br/>
+
+**Dev Tools & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,fastapi,vercel&theme=dark" />
+
+</div>
 
 ---
 
@@ -141,64 +177,8 @@ Week 6     ░░░░░░░░░░░░░░░░░░░░░░░
 
 ---
 
-## 🧰 Tech Stack
-
-<div align="center">
-
-**⛓️ Blockchain & Web3**
-
-[![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com)
-[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org)
-[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org)
-[![Algorand](https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand&logoColor=white)](https://algorand.com)
-[![Web3.py](https://img.shields.io/badge/Web3.py-F16822?style=for-the-badge&logo=python&logoColor=white)](https://web3py.readthedocs.io)
-[![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)](https://chain.link)
-
-**🤖 AI & Machine Learning**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)](https://python.langchain.com)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
-
-**🛠️ Tools & Infrastructure**
-
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gopichandchalla16&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=9945ff&icon_color=14F195&text_color=c9d1d9&border_color=30363d&count_private=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopichandchalla16&layout=compact&theme=github_dark&bg_color=0d1117&title_color=9945ff&text_color=c9d1d9&border_color=30363d&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gopichandchalla16&theme=github-dark-blue&background=0d1117&border=30363d&stroke=9945ff&ring=9945ff&fire=14F195&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=9945ff&sideLabels=9945ff&dates=6e7681" width="60%"/>
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gopichandchalla16&bg_color=0d1117&color=9945ff&line=14F195&point=9945ff&area=true&hide_border=false&border_color=30363d)](https://github.com/gopichandchalla16)
-
-</div>
-
----
-
 ## ✍️ Latest DEV.to Articles
 
-<!-- Replace with actual links as you publish -->
 | | Article | Topic |
 |--|---------|-------|
 | 📝 | [Week 5: Everything I Learned About Tokens](https://dev.to/gopichand_dev/week-5-on-solana-everything-i-learned-about-tokens-days-29-31-2bko) | SPL · Token-2022 · Transfer Fees |
