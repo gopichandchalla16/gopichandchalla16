@@ -4,19 +4,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0a0f1e,60:0d2137,100:9945FF&height=280&section=header&text=Gopichand%20Challa&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C3%97%20Web3%20Engineer%20%7C%20Solana%20%7C%20Anchor%20%7C%20ZK%20Proofs%20%7C%20On-Chain%20Agents&descAlignY=58&descSize=19&descColor=c084fc" width="100%"/>
 
-<!-- Profile views counter -->
-<img src="https://komarev.com/ghpvc/?username=gopichandchalla16&style=for-the-badge&color=9945FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/gopichandchalla16?style=for-the-badge&color=14F195&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open_To_Work-%F0%9F%9F%A2_Available_Now-2EA043?style=for-the-badge" alt="Open To Work"/>
-
-<br/><br/>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=9945FF&center=true&vCenter=true&width=900&lines=AI+%C3%97+Web3+Engineer+%7C+Solana+%7C+Anchor+%7C+ZK+Proofs;Building+AI+agents+that+own+wallets+%26+sign+transactions+%F0%9F%A4%96%E2%9B%93;Day+60+%2F+100+of+Solana+%E2%80%94+Anchor+%7C+LiteSVM+%7C+Failure+Tests;PrivateCredit+AI+%E2%80%94+ZK+privacy+%2B+on-chain+credit+scoring;AI-Sentinel+%E2%80%94+Solana+transaction+firewall+in+real-time;Available+for+AI+%C3%97+Web3+roles+%7C+DevRel+%7C+Protocol+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
+<!-- Social Links -->
 <a href="https://x.com/GopichandAI"><img src="https://img.shields.io/badge/X-%40GopichandAI-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/gopichandchalla"><img src="https://img.shields.io/badge/LinkedIn-Gopichand_Challa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -24,6 +18,17 @@
 <a href="https://dev.to/gopichand_dev"><img src="https://img.shields.io/badge/DEV.to-gopichand__dev-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:gopichandchalla516@gmail.com"><img src="https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<!-- Status badges -->
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2_Status-Open_to_Work-2EA043?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Solana-60%2F100_Days-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Anchor-Programs_%26_Tests-14F195?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Bengaluru%2C_India-FF6B35?style=for-the-badge"/>
 
 </div>
 
@@ -35,10 +40,10 @@
 
 | 🎯 Role | 🛠️ What I bring | 📬 Contact |
 |---|---|---|
-| **AI × Web3 Engineer** | Solana programs, Anchor, LiteSVM, Token-2022, ZK proofs, LangChain agents | [gopichandchalla516@gmail.com](mailto:gopichandchalla516@gmail.com) |
-| **Protocol / Smart Contract Engineer** | Anchor framework, `has_one` auth guards, failure tests, on-chain state | [LinkedIn](https://www.linkedin.com/in/gopichandchalla) |
-| **Developer Relations (DevRel)** | 12+ technical articles, 60-day public build log, X thread writing | [DEV.to](https://dev.to/gopichand_dev) |
-| **AI Agent Engineer** | LangChain, RAG pipelines, GRPO RL, wallet-owning agents | [X @GopichandAI](https://x.com/GopichandAI) |
+| **AI × Web3 Engineer** | Solana Anchor programs · LiteSVM · Token-2022 · ZK proofs · LangChain agents | [gopichandchalla516@gmail.com](mailto:gopichandchalla516@gmail.com) |
+| **Protocol / Smart Contract Engineer** | Anchor framework · `has_one` auth guards · failure tests · on-chain state | [LinkedIn](https://www.linkedin.com/in/gopichandchalla) |
+| **Developer Relations (DevRel)** | 12+ technical articles · 60-day public build log · X thread writing | [DEV.to](https://dev.to/gopichand_dev) |
+| **AI Agent Engineer** | LangChain · RAG pipelines · GRPO RL · wallet-owning agents | [X @GopichandAI](https://x.com/GopichandAI) |
 
 ---
 
@@ -59,7 +64,7 @@ I build systems at that frontier — combining **LLMs**, **zero-knowledge proofs
 - 🧠 **AI Stack:** LangChain · HuggingFace · GRPO RL · RAG · LoRA fine-tuning
 - 🔗 **Other chains:** Ethereum (ERC-20/721) · Algorand (ASA, RWA)
 - 📝 **Writing:** 12+ deep-dives on [DEV.to](https://dev.to/gopichand_dev)
-- 📊 **Now:** Day **60/100** Solana — Anchor programs + LiteSVM failure tests
+- 📊 **Now:** Day **60/100** of Solana — Anchor programs + LiteSVM failure tests
 - 🎯 **Open to:** AI × Web3 Engineer · Protocol Engineer · DevRel
 
 <br clear="right"/>
@@ -78,7 +83,7 @@ I build systems at that frontier — combining **LLMs**, **zero-knowledge proofs
 
 | ⛓️ Solana + Anchor | 🔷 Ethereum | 🔐 Midnight ZK | 🔵 Algorand |
 |---|---|---|---|
-| SPL · Token-2022 · Anchor programs · LiteSVM · `has_one` auth guards · Failure tests · NFT collections | ERC-20 · ERC-721 · Smart Contracts · Hardhat · Sepolia | ZK Proofs · Privacy-preserving state · Compact lang · Confidential credit | ASA · RWA Tokenization · Smart contracts |
+| SPL · Token-2022 · Anchor programs · LiteSVM · `has_one` guards · Failure tests | ERC-20 · ERC-721 · Smart Contracts · Hardhat · Sepolia | ZK Proofs · Privacy-preserving state · Confidential credit | ASA · RWA Tokenization · Smart contracts |
 
 <br/>
 
@@ -178,7 +183,7 @@ Week 8      ████████████████████  ✅  T
 Week 9      ████████████████████  🔥 Anchor · has_one · LiteSVM · Failure Tests
 Week 10+    ░░░░░░░░░░░░░░░░░░░░  ⏳ Coming soon...
 
-[████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░] 60%
+[████████████████████████░░░░░░░░░░░░░░░░] 60%
 ```
 
 → **[View full challenge log](https://github.com/gopichandchalla16/100-days-of-solana)**
@@ -211,16 +216,16 @@ Week 10+    ░░░░░░░░░░░░░░░░░░░░  ⏳ Co
 
 <div align="center">
 
-| Article | Topic | Reads |
-|---------|-------|-------|
-| 🏆 [GitHub Finish-Up-A-Thon Submission](https://dev.to/gopichand_dev/44-days-of-solana-from-an-empty-readme-to-a-live-nft-on-chain-my-finish-up-a-thon-story-fmg) | Full build story · $3,000 prize pool | 🔥 Featured |
-| 📝 [Three Token-2022 Mints: Fees, Yield & Soul-Bound](https://dev.to/gopichand_dev/three-token-2022-mints-in-one-week-fees-yield-and-soul-bound-2b5k) | Transfer fees · Interest · Non-transferable | Week 8 |
-| 📝 [Solana NFTs Without Metaplex](https://dev.to/gopichand_dev/solana-nfts-without-metaplex-what-i-learned-building-with-token-extensionspublished-true-1070) | Token-2022 · NFT collections · Metadata | Week 7 |
-| 📝 [5 Token Extension Combinations](https://dev.to/gopichand_dev/i-built-5-token-extension-combinations-on-solana-this-week-heres-what-each-one-does-4ck3) | Fees + Interest + Metadata combos | Week 6 |
-| 📝 [Solana's Account Model for Web2 Devs](https://dev.to/gopichand_dev/solanas-account-model-explained-for-web2-developers-no-blockchain-experience-needed-4acg) | Accounts · Programs · State | Week 4 |
-| 📝 [Solana Transactions for Backend Devs](https://dev.to/gopichand_dev/solana-transactions-explained-for-backend-developers-with-real-failures-2ido) | Transactions · Failures · Fees | Week 3 |
+| Article | Topic |
+|---------|-------|
+| 🏆 [GitHub Finish-Up-A-Thon Submission](https://dev.to/gopichand_dev/44-days-of-solana-from-an-empty-readme-to-a-live-nft-on-chain-my-finish-up-a-thon-story-fmg) | Full build story · $3,000 prize pool · Featured |
+| 📝 [Three Token-2022 Mints: Fees, Yield & Soul-Bound](https://dev.to/gopichand_dev/three-token-2022-mints-in-one-week-fees-yield-and-soul-bound-2b5k) | Transfer fees · Interest · Non-transferable |
+| 📝 [Solana NFTs Without Metaplex](https://dev.to/gopichand_dev/solana-nfts-without-metaplex-what-i-learned-building-with-token-extensionspublished-true-1070) | Token-2022 · NFT collections · On-chain metadata |
+| 📝 [5 Token Extension Combinations on Solana](https://dev.to/gopichand_dev/i-built-5-token-extension-combinations-on-solana-this-week-heres-what-each-one-does-4ck3) | Fees + Interest + Metadata combos |
+| 📝 [Solana's Account Model for Web2 Devs](https://dev.to/gopichand_dev/solanas-account-model-explained-for-web2-developers-no-blockchain-experience-needed-4acg) | Accounts · Programs · State |
+| 📝 [Solana Transactions for Backend Devs](https://dev.to/gopichand_dev/solana-transactions-explained-for-backend-developers-with-real-failures-2ido) | Transactions · Failures · Fees |
 
-→ **[All 12+ articles on DEV.to → dev.to/gopichand_dev](https://dev.to/gopichand_dev)**
+→ **[All 12+ articles → dev.to/gopichand_dev](https://dev.to/gopichand_dev)**
 
 </div>
 
@@ -239,7 +244,7 @@ Week 10+    ░░░░░░░░░░░░░░░░░░░░  ⏳ Co
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-2026-14F195?style=for-the-badge&labelColor=0d1117" /><br/><br/>
 <b>🏆 MLH 100 Days of Solana</b><br/>
-<sub>Day 60/100 — Anchor programs, LiteSVM tests, Token-2022 NFTs. Building daily.</sub>
+<sub>Day 60/100 — Anchor programs, LiteSVM tests, Token-2022. Building daily.</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-2025-58a6ff?style=for-the-badge&labelColor=0d1117" /><br/><br/>
@@ -262,7 +267,7 @@ Week 10+    ░░░░░░░░░░░░░░░░░░░░  ⏳ Co
 </td>
 <td align="center" width="25%">
 <h3>🪙</h3><b>100 Days of Solana</b><br/>
-<sub>60 / 100 days · MLH Challenge · Shipping daily</sub>
+<sub>60 / 100 days · MLH Challenge · Daily shipping</sub>
 </td>
 <td align="center" width="25%">
 <h3>📚</h3><b>Algorand Web3 Masterclass</b><br/>
@@ -306,29 +311,17 @@ PHASE 6 — PROTOCOL ENGINEERING   ██░░░░░░░░░░░░░
 
 <div align="center">
 
-### 🟢 Currently Available for Full-Time, Contract & DevRel Roles
+### 🟢 Currently Available — Full-Time · Contract · DevRel
 
 <a href="mailto:gopichandchalla516@gmail.com">
-  <img src="https://img.shields.io/badge/%F0%9F%93%A7_Email_Me-gopichandchalla516%40gmail.com-EA4335?style=for-the-badge"/>
-</a>
-<br/><br/>
-<a href="https://x.com/GopichandAI">
-  <img src="https://img.shields.io/badge/X-%40GopichandAI-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/gopichandchalla">
-  <img src="https://img.shields.io/badge/LinkedIn-Gopichand_Challa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://dev.to/gopichand_dev">
-  <img src="https://img.shields.io/badge/DEV.to-Read_My_Work-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-gopichandchalla516%40gmail.com-EA4335?style=for-the-badge"/>
 </a>
 
 <br/><br/>
 
 | 🧩 I can build | 📊 I have shipped | 💬 I can explain |
 |---|---|---|
-| Anchor programs with auth guards & tests | 60 days of on-chain Solana code | Technical articles for any skill level |
+| Anchor programs with auth guards & tests | 60 days of daily on-chain Solana code | Technical articles for any skill level |
 | LangChain AI agents with on-chain wallets | PrivateCredit AI — ZK credit scoring | Live X threads · DEV.to deep dives |
 | Token-2022 mints with metadata + fees | AI-Sentinel — Solana MEV firewall | Protocol documentation · tutorials |
 | ZK proof systems on Midnight blockchain | ChainVault — RWA tokenization on Algorand | Onboarding engineers to Web3 |
