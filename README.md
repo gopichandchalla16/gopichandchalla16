@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=9945FF&center=true&vCenter=true&width=900&lines=AI+%C3%97+Web3+Engineer+%7C+Solana+%7C+Anchor+%7C+ZK+Proofs;Building+AI+agents+that+own+wallets+%26+sign+transactions+%F0%9F%A4%96%E2%9B%93;Day+65+%2F+100+of+Solana+%E2%80%94+Per-User+PDA+Counter+%E2%9C%85;PrivateCredit+AI+%E2%80%94+ZK+privacy+%2B+on-chain+credit+scoring;AI-Sentinel+%E2%80%94+Solana+transaction+firewall+in+real-time;Available+for+AI+%C3%97+Web3+roles+%7C+DevRel+%7C+Protocol+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=9945FF&center=true&vCenter=true&width=900&lines=AI+%C3%97+Web3+Engineer+%7C+Solana+%7C+Anchor+%7C+ZK+Proofs;Building+AI+agents+that+own+wallets+%26+sign+transactions+%F0%9F%A4%96%E2%9B%93;Day+66+%2F+100+of+Solana+%E2%80%94+Config+PDA+%2B+Constraints+%E2%9C%85;PrivateCredit+AI+%E2%80%94+ZK+privacy+%2B+on-chain+credit+scoring;AI-Sentinel+%E2%80%94+Solana+transaction+firewall+in+real-time;Available+for+AI+%C3%97+Web3+roles+%7C+DevRel+%7C+Protocol+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,9 +24,9 @@
 <!-- Status badges -->
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Status-Open_to_Work-2EA043?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Solana-65%2F100_Days-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solana-66%2F100_Days-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Day_65-Per--User_PDA_Counter_%E2%9C%85-14F195?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Day_66-Config_PDA_%2B_Constraints_%E2%9C%85-14F195?style=for-the-badge"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Location-Bengaluru%2C_India-FF6B35?style=for-the-badge"/>
 
@@ -41,8 +41,8 @@
 | 🎯 Role | 🛠️ What I bring | 📬 Contact |
 |---|---|---|
 | **AI × Web3 Engineer** | Solana Anchor programs · LiteSVM · Token-2022 · ZK proofs · LangChain agents | [gopichandchalla516@gmail.com](mailto:gopichandchalla516@gmail.com) |
-| **Protocol / Smart Contract Engineer** | Anchor framework · `has_one` auth guards · PDAs · mutation testing · failure tests | [LinkedIn](https://www.linkedin.com/in/gopichandchalla) |
-| **Developer Relations (DevRel)** | 13+ technical articles · 65-day public build log · X thread writing | [DEV.to](https://dev.to/gopichand_dev) |
+| **Protocol / Smart Contract Engineer** | Anchor framework · `has_one` auth guards · PDAs · Config PDA · pause constraints · mutation testing | [LinkedIn](https://www.linkedin.com/in/gopichandchalla) |
+| **Developer Relations (DevRel)** | 13+ technical articles · 66-day public build log · X thread writing | [DEV.to](https://dev.to/gopichand_dev) |
 | **AI Agent Engineer** | LangChain · RAG pipelines · GRPO RL · wallet-owning agents | [X @GopichandAI](https://x.com/GopichandAI) |
 
 ---
@@ -59,12 +59,12 @@ I'm an **AI × Web3 Engineer** from Bengaluru, India, obsessed with one question
 
 I build systems at that frontier — combining **LLMs**, **zero-knowledge proofs**, and **on-chain Anchor programs** into real, shipped products.
 
-- ⛓️ **Solana:** SPL · Token-2022 · Anchor · LiteSVM · PDAs · `has_one` auth · Mutation testing
+- ⛓️ **Solana:** SPL · Token-2022 · Anchor · LiteSVM · PDAs · Config PDA · `has_one` auth · Pause constraints
 - 🔐 **ZK/Privacy:** Midnight blockchain · ZK proofs · Confidential state
 - 🧠 **AI Stack:** LangChain · HuggingFace · GRPO RL · RAG · LoRA fine-tuning
 - 🔗 **Other chains:** Ethereum (ERC-20/721) · Algorand (ASA, RWA)
 - 📝 **Writing:** 13+ deep-dives on [DEV.to](https://dev.to/gopichand_dev)
-- 📊 **Now:** Day **65/100** of Solana — Per-user PDA Counter: Alice=2, Bob=1 ✅
+- 📊 **Now:** Day **66/100** of Solana — Config PDA + `has_one` + `constraint = !paused`; 2 tests pass ✅
 - 🎯 **Open to:** AI × Web3 Engineer · Protocol Engineer · DevRel
 
 <br clear="right"/>
@@ -83,7 +83,7 @@ I build systems at that frontier — combining **LLMs**, **zero-knowledge proofs
 
 | ⛓️ Solana + Anchor | 🔷 Ethereum | 🔐 Midnight ZK | 🔵 Algorand |
 |---|---|---|---|
-| SPL · Token-2022 · Anchor programs · PDAs · LiteSVM · `has_one` guards · Mutation testing | ERC-20 · ERC-721 · Smart Contracts · Hardhat · Sepolia | ZK Proofs · Privacy-preserving state · Confidential credit | ASA · RWA Tokenization · Smart contracts |
+| SPL · Token-2022 · Anchor programs · PDAs · Config PDA · LiteSVM · `has_one` guards · Pause constraints | ERC-20 · ERC-721 · Smart Contracts · Hardhat · Sepolia | ZK Proofs · Privacy-preserving state · Confidential credit | ASA · RWA Tokenization · Smart contracts |
 
 <br/>
 
@@ -153,13 +153,13 @@ of physical assets with on-chain compliance controls.
 <td width="50%" valign="top">
 
 ### ⚓ 100 Days of Solana
-**Public build log** — 65 days shipped. SPL tokens, Token-2022 NFTs,
-Anchor programs, PDAs, mutation testing + blog on DEV.to.
+**Public build log** — 66 days shipped. SPL tokens, Token-2022 NFTs,
+Anchor programs, PDAs, Config PDA + constraints + blog on DEV.to.
 
 ![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![Anchor](https://img.shields.io/badge/-Anchor-5C2D91?style=flat-square&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
-![Progress](https://img.shields.io/badge/-65%2F100_Days-14F195?style=flat-square&logoColor=black)
+![Progress](https://img.shields.io/badge/-66%2F100_Days-14F195?style=flat-square&logoColor=black)
 
 </td>
 </tr>
@@ -172,8 +172,8 @@ Anchor programs, PDAs, mutation testing + blog on DEV.to.
 
 <div align="center">
 
-![Progress](https://img.shields.io/badge/Progress-65%20%2F%20100%20Days-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Current](https://img.shields.io/badge/Week_10-Per--User_PDA_Counter_%E2%9C%85-14F195?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-66%20%2F%20100%20Days-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Current](https://img.shields.io/badge/Week_10-Config_PDA_%2B_Constraints_%E2%9C%85-14F195?style=for-the-badge)
 
 ```
 Weeks 1–5   ████████████████████  ✅  Keypairs · Wallets · Txns · Accounts · SPL
@@ -181,10 +181,10 @@ Week 6      ████████████████████  ✅  T
 Week 7      ████████████████████  ✅  NFTs · Collections · On-chain Metadata
 Week 8      ████████████████████  ✅  Transfer Fees · Interest · Soul-bound
 Week 9      ████████████████████  ✅  Anchor · has_one · LiteSVM · Blog Published
-Week 10     ██████████░░░░░░░░░░  🔥 PDAs · Per-User State · Alice=2, Bob=1
+Week 10     ████████████░░░░░░░░  🔥 PDAs · Per-User State · Config PDA · Pause Guard
 Week 11+    ░░░░░░░░░░░░░░░░░░░░  ⏳ Coming soon...
 
-[███████████████████████████████░░░░░░░░░░] 65%
+[████████████████████████████████░░░░░░░░░] 66%
 ```
 
 → **[View full challenge log](https://github.com/gopichandchalla16/100-days-of-solana)**
@@ -246,7 +246,7 @@ Week 11+    ░░░░░░░░░░░░░░░░░░░░  ⏳ Co
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-2026-14F195?style=for-the-badge&labelColor=0d1117" /><br/><br/>
 <b>🏆 MLH 100 Days of Solana</b><br/>
-<sub>Day 65/100 — PDA Counter. Per-user state · seeds + bump · Alice=2, Bob=1.</sub>
+<sub>Day 66/100 — Config PDA + constraints. Singleton admin · pause guard · 2 tests pass.</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-2025-58a6ff?style=for-the-badge&labelColor=0d1117" /><br/><br/>
@@ -269,7 +269,7 @@ Week 11+    ░░░░░░░░░░░░░░░░░░░░  ⏳ Co
 </td>
 <td align="center" width="25%">
 <h3>🪙</h3><b>100 Days of Solana</b><br/>
-<sub>65 / 100 days · MLH Challenge · Daily shipping</sub>
+<sub>66 / 100 days · MLH Challenge · Daily shipping</sub>
 </td>
 <td align="center" width="25%">
 <h3>📚</h3><b>Algorand Web3 Masterclass</b><br/>
@@ -294,8 +294,8 @@ PHASE 1 — SOLANA FOUNDATIONS     ███████████████
 PHASE 2 — TOKEN LAYER            ████████████████████  100% ✅
   SPL · Token-2022 · Metadata · Transfer Fees · NFT Collections
 
-PHASE 3 — ANCHOR PROGRAMS        ██████████████░░░░░░   65% 🔥
-  Counter · has_one auth · LiteSVM · Mutation testing · PDAs · Per-user state
+PHASE 3 — ANCHOR PROGRAMS        ██████████████░░░░░░   66% 🔥
+  Counter · has_one auth · LiteSVM · Mutation testing · PDAs · Config PDA · Pause constraints
 
 PHASE 4 — ZK + PRIVACY           ██████████░░░░░░░░░░   50% 🔄
   Midnight ZK · PrivateCredit AI · Confidential transfers
@@ -323,8 +323,8 @@ PHASE 6 — PROTOCOL ENGINEERING   ██░░░░░░░░░░░░░
 
 | 🧩 I can build | 📊 I have shipped | 💬 I can explain |
 |---|---|---|
-| Anchor programs with auth guards & tests | 65 days of daily on-chain Solana code | Technical articles for any skill level |
-| Per-user PDA state with seeds + bump | PrivateCredit AI — ZK credit scoring | Live X threads · DEV.to deep dives |
+| Anchor programs with auth guards & tests | 66 days of daily on-chain Solana code | Technical articles for any skill level |
+| Config PDA + per-user PDA with constraints | PrivateCredit AI — ZK credit scoring | Live X threads · DEV.to deep dives |
 | Token-2022 mints with metadata + fees | AI-Sentinel — Solana MEV firewall | Protocol documentation · tutorials |
 | ZK proof systems on Midnight blockchain | ChainVault — RWA tokenization on Algorand | Onboarding engineers to Web3 |
 
