@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=9945FF&center=true&vCenter=true&width=900&lines=AI+%C3%97+Web3+Engineer+%7C+Solana+%7C+Anchor+%7C+ZK+Proofs;Building+AI+agents+that+own+wallets+%26+sign+transactions+%F0%9F%A4%96%E2%9B%93;Day+67+%2F+100+of+Solana+%E2%80%94+Close+PDA+%2B+Reclaim+Rent+%E2%9C%85;PrivateCredit+AI+%E2%80%94+ZK+privacy+%2B+on-chain+credit+scoring;AI-Sentinel+%E2%80%94+Solana+transaction+firewall+in+real-time;Available+for+AI+%C3%97+Web3+roles+%7C+DevRel+%7C+Protocol+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=9945FF&center=true&vCenter=true&width=900&lines=AI+%C3%97+Web3+Engineer+%7C+Solana+%7C+Anchor+%7C+ZK+Proofs;Building+AI+agents+that+own+wallets+%26+sign+transactions+%F0%9F%A4%96%E2%9B%93;Day+68+%2F+100+of+Solana+%E2%80%94+PDA+Collision+Explorer+%E2%9C%85;PrivateCredit+AI+%E2%80%94+ZK+privacy+%2B+on-chain+credit+scoring;AI-Sentinel+%E2%80%94+Solana+transaction+firewall+in+real-time;Available+for+AI+%C3%97+Web3+roles+%7C+DevRel+%7C+Protocol+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,9 +24,9 @@
 <!-- Status badges -->
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Status-Open_to_Work-2EA043?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Solana-67%2F100_Days-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solana-68%2F100_Days-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Day_67-Close_PDA_%2B_Reclaim_Rent_%E2%9C%85-14F195?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Day_68-PDA_Collision_Explorer_%E2%9C%85-14F195?style=for-the-badge"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Location-Bengaluru%2C_India-FF6B35?style=for-the-badge"/>
 
@@ -41,8 +41,8 @@
 | 🎯 Role | 🛠️ What I bring | 📬 Contact |
 |---|---|---|
 | **AI × Web3 Engineer** | Solana Anchor programs · LiteSVM · Token-2022 · ZK proofs · LangChain agents | [gopichandchalla516@gmail.com](mailto:gopichandchalla516@gmail.com) |
-| **Protocol / Smart Contract Engineer** | Anchor framework · `has_one` auth guards · PDAs · Config PDA · `close` constraint · rent reclaim | [LinkedIn](https://www.linkedin.com/in/gopichandchalla) |
-| **Developer Relations (DevRel)** | 13+ technical articles · 67-day public build log · X thread writing | [DEV.to](https://dev.to/gopichand_dev) |
+| **Protocol / Smart Contract Engineer** | Anchor framework · `has_one` auth guards · PDAs · Config PDA · `ConstraintSeeds` verifier · seed collision analysis | [LinkedIn](https://www.linkedin.com/in/gopichandchalla) |
+| **Developer Relations (DevRel)** | 13+ technical articles · 68-day public build log · X thread writing | [DEV.to](https://dev.to/gopichand_dev) |
 | **AI Agent Engineer** | LangChain · RAG pipelines · GRPO RL · wallet-owning agents | [X @GopichandAI](https://x.com/GopichandAI) |
 
 ---
@@ -59,7 +59,7 @@ I'm an **AI × Web3 Engineer** from Bengaluru, India, obsessed with one question
 
 I build systems at that frontier — combining **LLMs**, **zero-knowledge proofs**, and **Solana smart contracts** into things that didn't exist before.
 
-**Right now:** Day **67/100** of my public Solana build log — today I closed a PDA account and reclaimed 1,231,920 lamports of rent back to the user wallet using Anchor's `close` constraint.
+**Right now:** Day **68/100** of my public Solana build log — today I explored PDA seed collisions: proved per-user PDAs are always unique, showed global seeds converge to one address, tested near-miss variants (every byte matters), and watched Anchor's `ConstraintSeeds` guard reject a cross-wallet spoof attempt live.
 
 ---
 
@@ -70,17 +70,17 @@ I build systems at that frontier — combining **LLMs**, **zero-knowledge proofs
 [![100 Days Repo](https://img.shields.io/badge/📦_Repo-100--days--of--solana-9945FF?style=for-the-badge)](https://github.com/gopichandchalla16/100-days-of-solana)
 
 ```
-Progress  [████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  67 / 100
+Progress  [█████████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  68 / 100
 ```
 
 ### 📍 Where I Am Now — Week 10: PDAs & State
 
 | Day | What I Built | Key Win |
 |-----|-------------|----------|
-| Day 64 | Derive first PDA from seeds | `findProgramAddressSync` · bump 253–255 · determinism ✅ |
 | Day 65 | Per-user PDA counter | Alice=2, Bob=1 · fully independent per wallet |
 | Day 66 | Config PDA + pause constraint | Singleton config · `has_one` admin · `require!(!paused)` |
-| **Day 67** | **Close PDA + reclaim rent** | **`close = user` · 1,231,920 lamports back · `getAccountInfo` → `null` ✅** |
+| Day 67 | Close PDA + reclaim rent | `close = user` · 1,231,920 lamports back · `getAccountInfo` → `null` ✅ |
+| **Day 68** | **PDA collision explorer** | **Per-user ≠ global · near-miss seeds all different · `ConstraintSeeds` spoof rejected ✅** |
 
 ---
 
@@ -123,5 +123,5 @@ Progress  [███████████████████████
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,100:14F195&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*Building every day. Shipping every day. Day 67 of 100 — Close PDA + Rent Reclaim ✅*
+*Building every day. Shipping every day. Day 68 of 100 — PDA Collision Explorer ✅*
 </div>
