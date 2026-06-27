@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=9945FF&center=true&vCenter=true&width=900&lines=AI+%C3%97+Web3+Engineer+%7C+Solana+%7C+Anchor+%7C+ZK+Proofs;Building+AI+agents+that+own+wallets+%26+sign+transactions+%F0%9F%A4%96%E2%9B%93;Day+68+%2F+100+of+Solana+%E2%80%94+PDA+Collision+Explorer+%E2%9C%85;PrivateCredit+AI+%E2%80%94+ZK+privacy+%2B+on-chain+credit+scoring;AI-Sentinel+%E2%80%94+Solana+transaction+firewall+in+real-time;Available+for+AI+%C3%97+Web3+roles+%7C+DevRel+%7C+Protocol+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=9945FF&center=true&vCenter=true&width=900&lines=AI+%C3%97+Web3+Engineer+%7C+Solana+%7C+Anchor+%7C+ZK+Proofs;Building+AI+agents+that+own+wallets+%26+sign+transactions+%F0%9F%A4%96%E2%9B%93;Day+69+%2F+100+of+Solana+%E2%80%94+PDA+Explainer+Published+%E2%9C%85;PrivateCredit+AI+%E2%80%94+ZK+privacy+%2B+on-chain+credit+scoring;AI-Sentinel+%E2%80%94+Solana+transaction+firewall+in+real-time;Available+for+AI+%C3%97+Web3+roles+%7C+DevRel+%7C+Protocol+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,9 +24,9 @@
 <!-- Status badges -->
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Status-Open_to_Work-2EA043?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Solana-68%2F100_Days-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solana-69%2F100_Days-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Day_68-PDA_Collision_Explorer_%E2%9C%85-14F195?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Day_69-PDA_Explainer_Published_%E2%9C%85-14F195?style=for-the-badge"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Location-Bengaluru%2C_India-FF6B35?style=for-the-badge"/>
 
@@ -42,7 +42,7 @@
 |---|---|---|
 | **AI × Web3 Engineer** | Solana Anchor programs · LiteSVM · Token-2022 · ZK proofs · LangChain agents | [gopichandchalla516@gmail.com](mailto:gopichandchalla516@gmail.com) |
 | **Protocol / Smart Contract Engineer** | Anchor framework · `has_one` auth guards · PDAs · Config PDA · `ConstraintSeeds` verifier · seed collision analysis | [LinkedIn](https://www.linkedin.com/in/gopichandchalla) |
-| **Developer Relations (DevRel)** | 13+ technical articles · 68-day public build log · X thread writing | [DEV.to](https://dev.to/gopichand_dev) |
+| **Developer Relations (DevRel)** | 14+ technical articles · 69-day public build log · X thread writing | [DEV.to](https://dev.to/gopichand_dev) |
 | **AI Agent Engineer** | LangChain · RAG pipelines · GRPO RL · wallet-owning agents | [X @GopichandAI](https://x.com/GopichandAI) |
 
 ---
@@ -59,7 +59,7 @@ I'm an **AI × Web3 Engineer** from Bengaluru, India, obsessed with one question
 
 I build systems at that frontier — combining **LLMs**, **zero-knowledge proofs**, and **Solana smart contracts** into things that didn't exist before.
 
-**Right now:** Day **68/100** of my public Solana build log — today I explored PDA seed collisions: proved per-user PDAs are always unique, showed global seeds converge to one address, tested near-miss variants (every byte matters), and watched Anchor's `ConstraintSeeds` guard reject a cross-wallet spoof attempt live.
+**Right now:** Day **69/100** of my public Solana build log — today I published a full PDA explainer on DEV.to covering the entire lifecycle (derive → init → mutate → close), the bump canonical story, seed collision experiments from Day 68, and the 5 hard-won lessons I wish I'd had on Day 64.
 
 ---
 
@@ -70,17 +70,17 @@ I build systems at that frontier — combining **LLMs**, **zero-knowledge proofs
 [![100 Days Repo](https://img.shields.io/badge/📦_Repo-100--days--of--solana-9945FF?style=for-the-badge)](https://github.com/gopichandchalla16/100-days-of-solana)
 
 ```
-Progress  [█████████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  68 / 100
+Progress  [██████████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  69 / 100
 ```
 
-### 📍 Where I Am Now — Week 10: PDAs & State
+### 📍 Where I Am Now — Week 10: PDAs & State ✅ Complete!
 
 | Day | What I Built | Key Win |
 |-----|-------------|----------|
-| Day 65 | Per-user PDA counter | Alice=2, Bob=1 · fully independent per wallet |
 | Day 66 | Config PDA + pause constraint | Singleton config · `has_one` admin · `require!(!paused)` |
 | Day 67 | Close PDA + reclaim rent | `close = user` · 1,231,920 lamports back · `getAccountInfo` → `null` ✅ |
-| **Day 68** | **PDA collision explorer** | **Per-user ≠ global · near-miss seeds all different · `ConstraintSeeds` spoof rejected ✅** |
+| Day 68 | PDA collision explorer | Per-user ≠ global · near-miss seeds all different · `ConstraintSeeds` spoof rejected ✅ |
+| **Day 69** | **PDA Explainer on DEV.to** | **Full lifecycle + bump + seeds + spoof test — Week 10 complete ✅** |
 
 ---
 
@@ -112,10 +112,10 @@ Progress  [███████████████████████
 ## 📝 Latest DEV.to Articles
 
 <!-- BLOG-POST-LIST:START -->
+- 🔑 [What I Learned About PDAs in a Week of Building on Solana](https://dev.to/gopichand_dev/what-i-learned-about-pdas-in-a-week-of-building-on-solana-4n9b)
 - 🏆 [GitHub Finish-Up-A-Thon: 44 Days → Live NFT On-Chain](https://dev.to/gopichand_dev/44-days-of-solana-from-an-empty-readme-to-a-live-nft-on-chain-my-finish-up-a-thon-story-fmg)
 - 🔧 [How I Built a Counter Program in Anchor and Learned to Trust My Tests](https://dev.to/gopichand_dev/how-i-built-a-counter-program-in-anchor-and-learned-to-trust-my-tests-4afi)
 - 💰 [Three Token-2022 Mints: Fees, Yield, and Soul-Bound](https://dev.to/gopichand_dev/three-token-2022-mints-in-one-week-fees-yield-and-soul-bound-2b5k)
-- 🖼️ [Solana NFTs Without Metaplex](https://dev.to/gopichand_dev/solana-nfts-without-metaplex-what-i-learned-building-with-token-extensionspublished-true-1070)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -123,5 +123,5 @@ Progress  [███████████████████████
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,100:14F195&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*Building every day. Shipping every day. Day 68 of 100 — PDA Collision Explorer ✅*
+*Building every day. Shipping every day. Day 69 of 100 — PDA Explainer Published ✅ · Week 10 Complete!*
 </div>
