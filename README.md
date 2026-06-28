@@ -42,7 +42,7 @@
 |---|---|---|
 | **AI × Web3 Engineer** | Solana Anchor programs · LiteSVM · Token-2022 · ZK proofs · LangChain agents | [gopichandchalla516@gmail.com](mailto:gopichandchalla516@gmail.com) |
 | **Protocol / Smart Contract Engineer** | Anchor framework · `has_one` auth guards · PDAs full lifecycle · Config PDA · `ConstraintSeeds` verifier · seed collision analysis | [LinkedIn](https://www.linkedin.com/in/gopichandchalla) |
-| **Developer Relations (DevRel)** | 14+ technical articles · 70-day public build log · X threads · LinkedIn posts | [DEV.to](https://dev.to/gopichand_dev) |
+| **Developer Relations (DevRel)** | 14+ technical articles · 70-day public build log · X threads · community engagement | [DEV.to](https://dev.to/gopichand_dev) |
 | **AI Agent Engineer** | LangChain · RAG pipelines · GRPO RL · wallet-owning agents | [X @GopichandAI](https://x.com/GopichandAI) |
 
 ---
@@ -59,7 +59,7 @@ I'm an **AI × Web3 Engineer** from Bengaluru, India, obsessed with one question
 
 I build systems at that frontier — combining **LLMs**, **zero-knowledge proofs**, and **Solana smart contracts** into things that didn't exist before.
 
-**Right now:** Day **70/100** — Week 10 (PDAs & State) is fully complete. Six days of building the PDA lifecycle from scratch, one day writing the explainer, one day amplifying it on X and LinkedIn. Moving into Week 11 next.
+**Right now:** Day **70/100** — Week 10 (PDAs & State) is fully complete. Six days of building the PDA lifecycle from scratch, one day writing the explainer on DEV.to, one day amplifying it publicly on X. Moving into Week 11 next.
 
 ---
 
@@ -80,7 +80,7 @@ Progress  [███████████████████████
 | Day 67 | Close PDA + reclaim rent | `close = user` · 1,231,920 lamports back · `getAccountInfo` → `null` ✅ |
 | Day 68 | PDA collision explorer | Per-user ≠ global · near-miss seeds all different · `ConstraintSeeds` spoof rejected ✅ |
 | Day 69 | PDA Explainer on DEV.to | Full lifecycle · bump · seeds · spoof test — published for Web2 devs |
-| **Day 70** | **Amplify on X + LinkedIn** | **5-post X thread + LinkedIn post + 2 community replies ✅ Week 10 done!** |
+| **Day 70** | **Amplify PDA explainer on X** | **[X post live](https://x.com/GopichandAI/status/2071155375219597591) · `#100DaysOfSolana` · community replies ✅ Week 10 done!** |
 
 ---
 
