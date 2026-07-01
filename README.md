@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=9945FF&center=true&vCenter=true&width=900&lines=AI+%C3%97+Web3+Engineer+%7C+Solana+%7C+Anchor+%7C+ZK+Proofs;Building+AI+agents+that+own+wallets+%26+sign+transactions+%F0%9F%A4%96%E2%9B%93;Day+74+%2F+100+of+Solana+%E2%80%94+CPI+Between+Two+Anchor+Programs+%F0%9F%94%A5;PrivateCredit+AI+%E2%80%94+ZK+privacy+%2B+on-chain+credit+scoring;AI-Sentinel+%E2%80%94+Solana+transaction+firewall+in+real-time;Available+for+AI+%C3%97+Web3+roles+%7C+DevRel+%7C+Protocol+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=9945FF&center=true&vCenter=true&width=900&lines=AI+%C3%97+Web3+Engineer+%7C+Solana+%7C+Anchor+%7C+ZK+Proofs;Building+AI+agents+that+own+wallets+%26+sign+transactions+%F0%9F%A4%96%E2%9B%93;Day+75+%2F+100+of+Solana+%E2%80%94+Read+a+CPI+Failure+Like+a+Sentence+%F0%9F%94%A5;PrivateCredit+AI+%E2%80%94+ZK+privacy+%2B+on-chain+credit+scoring;AI-Sentinel+%E2%80%94+Solana+transaction+firewall+in+real-time;Available+for+AI+%C3%97+Web3+roles+%7C+DevRel+%7C+Protocol+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,9 +24,9 @@
 <!-- Status badges -->
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Status-Open_to_Work-2EA043?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Solana-74%2F100_Days-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solana-75%2F100_Days-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Day_74-CPI_Between_Two_Programs_%F0%9F%94%A5-14F195?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Day_75-CPI_Failures_Decoded_%F0%9F%94%A5-14F195?style=for-the-badge"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Location-Bengaluru%2C_India-FF6B35?style=for-the-badge"/>
 
@@ -41,8 +41,8 @@
 | 🎯 Role | 🛠️ What I bring | 📬 Contact |
 |---|---|---|
 | **AI × Web3 Engineer** | Solana Anchor programs · LiteSVM · Token-2022 · ZK proofs · LangChain agents | [gopichandchalla516@gmail.com](mailto:gopichandchalla516@gmail.com) |
-| **Protocol / Smart Contract Engineer** | Anchor framework · PDAs full lifecycle · CPIs · `declare_program!` · multi-program composition · `CpiContext::new_with_signer` · Token-2022 mint CPI | [LinkedIn](https://www.linkedin.com/in/gopichandchalla) |
-| **Developer Relations (DevRel)** | 14+ technical articles · 74-day public build log · X threads · community engagement | [DEV.to](https://dev.to/gopichand_dev) |
+| **Protocol / Smart Contract Engineer** | Anchor framework · PDAs full lifecycle · CPIs · `declare_program!` · multi-program composition · `CpiContext::new_with_signer` · CPI failure diagnosis | [LinkedIn](https://www.linkedin.com/in/gopichandchalla) |
+| **Developer Relations (DevRel)** | 14+ technical articles · 75-day public build log · X threads · community engagement | [DEV.to](https://dev.to/gopichand_dev) |
 | **AI Agent Engineer** | LangChain · RAG pipelines · GRPO RL · wallet-owning agents | [X @GopichandAI](https://x.com/GopichandAI) |
 
 ---
@@ -59,7 +59,7 @@ I'm an **AI × Web3 Engineer** from Bengaluru, India, obsessed with one question
 
 I build systems at that frontier — combining **LLMs**, **zero-knowledge proofs**, and **Solana smart contracts** into things that didn't exist before.
 
-**Right now:** Day **74/100** — Week 11 (CPIs). Today I built `compose-lab`: two independent Anchor programs composing atomically in a single transaction. The `compose-lab` caller used `declare_program!(counter)` to import counter's full type system at compile time, then fired a typed `CpiContext` CPI into `counter::increment`. Test confirmed `count == 1`. Zero signing code needed — signer authority flows down automatically.
+**Right now:** Day **75/100** — Week 11 (CPIs). Today I deliberately broke three working CPIs to map their failure signatures: wrong signer seeds → `privilege escalation`; wrong account constraint → `ConstraintHasOne`; wrong program ID → `invalid instruction data`. Reading the runtime logs top-to-bottom is now a skill, not a panic.
 
 ---
 
@@ -70,17 +70,18 @@ I build systems at that frontier — combining **LLMs**, **zero-knowledge proofs
 [![100 Days Repo](https://img.shields.io/badge/📦_Repo-100--days--of--solana-9945FF?style=for-the-badge)](https://github.com/gopichandchalla16/100-days-of-solana)
 
 ```
-Progress  [███████████████████████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  74 / 100
+Progress  [████████████████████████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  75 / 100
 ```
 
 ### 📍 Week 11 — Cross-Program Invocations (CPIs) 🔥
 
 | Day | What I Built | Key Win |
 |-----|-------------|----------|
-| Day 71 | Move SOL with a CPI | `Transfer` struct · `CpiContext::new` · `transfer()` helper · 250,000,000 lamports delivered · 1 test passing ✅ |
-| Day 72 | Mint Token-2022 via CPI | `MintTo` struct · `token_interface::mint_to` · `InterfaceAccount` · 1,000,000,000 base units minted · 1 test passing ✅ |
-| Day 73 | PDA Vault — deposit + PDA-signed withdraw | `CpiContext::new_with_signer` · `signer_seeds` · per-user PDA vault · 500,000,000 lamports deposited then withdrawn to 0 · 1 test passing ✅ |
-| **Day 74** | **CPI between two custom Anchor programs** | **`declare_program!(counter)` · typed `Increment` accounts struct · `cpi::increment(cpi_ctx)` · caller → callee · `count == 1` · 1 test passing ✅** |
+| Day 71 | Move SOL with a CPI | `Transfer` struct · `CpiContext::new` · `transfer()` helper · 250,000,000 lamports delivered ✅ |
+| Day 72 | Mint Token-2022 via CPI | `MintTo` struct · `token_interface::mint_to` · `InterfaceAccount` · 1,000,000,000 base units minted ✅ |
+| Day 73 | PDA Vault — deposit + PDA-signed withdraw | `CpiContext::new_with_signer` · `signer_seeds` · per-user PDA vault · 500,000,000 lamports deposited then withdrawn ✅ |
+| Day 74 | CPI between two custom Anchor programs | `declare_program!(counter)` · typed `Increment` accounts struct · caller → callee · `count == 1` ✅ |
+| **Day 75** | **Read a CPI failure like a sentence** | **3 deliberate breaks: wrong seeds → `privilege escalation` · wrong constraint → `ConstraintHasOne` · wrong program → `invalid instruction data` ✅** |
 
 ---
 
@@ -123,5 +124,5 @@ Progress  [███████████████████████
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,100:14F195&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*Building every day. Shipping every day. Day 74 of 100 — CPI Between Two Anchor Programs Complete 🔥*
+*Building every day. Shipping every day. Day 75 of 100 — CPI Failures Decoded 🔥*
 </div>
