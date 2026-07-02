@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=9945FF&center=true&vCenter=true&width=900&lines=AI+%C3%97+Web3+Engineer+%7C+Solana+%7C+Anchor+%7C+ZK+Proofs;Building+AI+agents+that+own+wallets+%26+sign+transactions+%F0%9F%A4%96%E2%9B%93;Day+75+%2F+100+of+Solana+%E2%80%94+Read+a+CPI+Failure+Like+a+Sentence+%F0%9F%94%A5;PrivateCredit+AI+%E2%80%94+ZK+privacy+%2B+on-chain+credit+scoring;AI-Sentinel+%E2%80%94+Solana+transaction+firewall+in+real-time;Available+for+AI+%C3%97+Web3+roles+%7C+DevRel+%7C+Protocol+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=9945FF&center=true&vCenter=true&width=900&lines=AI+%C3%97+Web3+Engineer+%7C+Solana+%7C+Anchor+%7C+ZK+Proofs;Building+AI+agents+that+own+wallets+%26+sign+transactions+%F0%9F%A4%96%E2%9B%93;Day+76+%2F+100+of+Solana+%E2%80%94+CPI+Mental+Model+Published+%F0%9F%94%A5;PrivateCredit+AI+%E2%80%94+ZK+privacy+%2B+on-chain+credit+scoring;AI-Sentinel+%E2%80%94+Solana+transaction+firewall+in+real-time;Available+for+AI+%C3%97+Web3+roles+%7C+DevRel+%7C+Protocol+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,9 +24,9 @@
 <!-- Status badges -->
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Status-Open_to_Work-2EA043?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Solana-75%2F100_Days-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solana-76%2F100_Days-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Day_75-CPI_Failures_Decoded_%F0%9F%94%A5-14F195?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Day_76-CPI_Mental_Model_Published_%F0%9F%94%A5-14F195?style=for-the-badge"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Location-Bengaluru%2C_India-FF6B35?style=for-the-badge"/>
 
@@ -42,7 +42,7 @@
 |---|---|---|
 | **AI × Web3 Engineer** | Solana Anchor programs · LiteSVM · Token-2022 · ZK proofs · LangChain agents | [gopichandchalla516@gmail.com](mailto:gopichandchalla516@gmail.com) |
 | **Protocol / Smart Contract Engineer** | Anchor framework · PDAs full lifecycle · CPIs · `declare_program!` · multi-program composition · `CpiContext::new_with_signer` · CPI failure diagnosis | [LinkedIn](https://www.linkedin.com/in/gopichandchalla) |
-| **Developer Relations (DevRel)** | 14+ technical articles · 75-day public build log · X threads · community engagement | [DEV.to](https://dev.to/gopichand_dev) |
+| **Developer Relations (DevRel)** | 12+ technical articles · 76-day public build log · X threads · community engagement | [DEV.to](https://dev.to/gopichand_dev) |
 | **AI Agent Engineer** | LangChain · RAG pipelines · GRPO RL · wallet-owning agents | [X @GopichandAI](https://x.com/GopichandAI) |
 
 ---
@@ -59,7 +59,7 @@ I'm an **AI × Web3 Engineer** from Bengaluru, India, obsessed with one question
 
 I build systems at that frontier — combining **LLMs**, **zero-knowledge proofs**, and **Solana smart contracts** into things that didn't exist before.
 
-**Right now:** Day **75/100** — Week 11 (CPIs). Today I deliberately broke three working CPIs to map their failure signatures: wrong signer seeds → `privilege escalation`; wrong account constraint → `ConstraintHasOne`; wrong program ID → `invalid instruction data`. Reading the runtime logs top-to-bottom is now a skill, not a panic.
+**Right now:** Day **76/100** — Week 11 (CPIs) complete. Today I published the full CPI mental model article on DEV.to, distilling every pattern from Days 71–75: `CpiContext::new` for the System Program, `token_interface::mint_to` for Token-2022, `new_with_signer` for PDA vaults, `declare_program!` for program-to-program calls, and a full error taxonomy from deliberately breaking all three.
 
 ---
 
@@ -70,10 +70,10 @@ I build systems at that frontier — combining **LLMs**, **zero-knowledge proofs
 [![100 Days Repo](https://img.shields.io/badge/📦_Repo-100--days--of--solana-9945FF?style=for-the-badge)](https://github.com/gopichandchalla16/100-days-of-solana)
 
 ```
-Progress  [████████████████████████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░]  75 / 100
+Progress  [█████████████████████████████████████████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░]  76 / 100
 ```
 
-### 📍 Week 11 — Cross-Program Invocations (CPIs) 🔥
+### ✅ Week 11 — Cross-Program Invocations (Complete!)
 
 | Day | What I Built | Key Win |
 |-----|-------------|----------|
@@ -81,7 +81,8 @@ Progress  [███████████████████████
 | Day 72 | Mint Token-2022 via CPI | `MintTo` struct · `token_interface::mint_to` · `InterfaceAccount` · 1,000,000,000 base units minted ✅ |
 | Day 73 | PDA Vault — deposit + PDA-signed withdraw | `CpiContext::new_with_signer` · `signer_seeds` · per-user PDA vault · 500,000,000 lamports deposited then withdrawn ✅ |
 | Day 74 | CPI between two custom Anchor programs | `declare_program!(counter)` · typed `Increment` accounts struct · caller → callee · `count == 1` ✅ |
-| **Day 75** | **Read a CPI failure like a sentence** | **3 deliberate breaks: wrong seeds → `privilege escalation` · wrong constraint → `ConstraintHasOne` · wrong program → `invalid instruction data` ✅** |
+| Day 75 | Read a CPI failure like a sentence | 3 deliberate breaks: wrong seeds → `privilege escalation` · wrong constraint → `ConstraintHasOne` · wrong program → `invalid instruction data` ✅ |
+| **Day 76** | **Publish CPI mental model on DEV.to** | **[Full article live](https://dev.to/gopichand_dev/cpi-on-solana-the-mental-model-i-wish-i-had-on-day-71-ceh) · 5 patterns · 4 callees · error taxonomy ✅** |
 
 ---
 
@@ -113,10 +114,10 @@ Progress  [███████████████████████
 ## 📝 Latest DEV.to Articles
 
 <!-- BLOG-POST-LIST:START -->
+- 🔗 [CPI on Solana: The Mental Model I Wish I Had on Day 71](https://dev.to/gopichand_dev/cpi-on-solana-the-mental-model-i-wish-i-had-on-day-71-ceh)
 - 🔑 [What I Learned About PDAs in a Week of Building on Solana](https://dev.to/gopichand_dev/what-i-learned-about-pdas-in-a-week-of-building-on-solana-4n9b)
 - 🏆 [GitHub Finish-Up-A-Thon: 44 Days → Live NFT On-Chain](https://dev.to/gopichand_dev/44-days-of-solana-from-an-empty-readme-to-a-live-nft-on-chain-my-finish-up-a-thon-story-fmg)
 - 🔧 [How I Built a Counter Program in Anchor and Learned to Trust My Tests](https://dev.to/gopichand_dev/how-i-built-a-counter-program-in-anchor-and-learned-to-trust-my-tests-4afi)
-- 💰 [Three Token-2022 Mints: Fees, Yield, and Soul-Bound](https://dev.to/gopichand_dev/three-token-2022-mints-in-one-week-fees-yield-and-soul-bound-2b5k)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -124,5 +125,5 @@ Progress  [███████████████████████
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,100:14F195&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*Building every day. Shipping every day. Day 75 of 100 — CPI Failures Decoded 🔥*
+*Building every day. Shipping every day. Day 76 of 100 — CPI Mental Model Published 🔥*
 </div>
