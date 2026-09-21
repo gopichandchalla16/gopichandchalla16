@@ -24,6 +24,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Turbin3-Q3_2026_Builders-9945FF?style=for-the-badge"/>
 &nbsp;
+<img src="https://img.shields.io/badge/Solana_Fall_School-Selected-14F195?style=for-the-badge&logo=solana&logoColor=black"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Focus-AI_%C3%97_Web3-111827?style=for-the-badge"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Solana-Devnet_%7C_Mainnet-14F195?style=for-the-badge&logo=solana&logoColor=black"/>
@@ -52,6 +54,16 @@ I learn by building. My GitHub contains Solana programs, AI security tools, agen
 - Developing a practical **AI × Web3 capstone project**
 
 I'm also continuing my **100 Days of Solana** public build log, currently at **78/100 days**.
+
+### 🟣 Selected for Solana Fall School
+
+I've also been **selected for Solana Fall School**, where I've been working through hands-on Solana program development and advanced Token-2022 exercises.
+
+- Built and extended Solana programs using **Rust + Anchor**
+- Worked on **Vault, Escrow and Token-2022 Transfer Hook** exercises
+- Practiced **PDAs, account validation, ExtraAccountMeta, CPIs and re-entrancy-safe program composition**
+- Maintained dedicated Fall School repositories and contributed changes through GitHub pull requests
+- **Transfer Hook PR:** [Complete Week 2 Day 2 Transfer Hook Challenges](https://github.com/gopichandchalla16/solana-fall-transfer-hook/pull/1), covering mint validation, per-mint/per-owner rate limits, CPI-based token movement and LiteSVM tests
 
 ---
 
@@ -292,7 +304,7 @@ I also publish technical notes and build logs on DEV.to covering Solana concepts
 <tr>
 <td><b>Solana Engineering</b></td>
 <td>Rust + Anchor programs, PDAs, CPIs, Token-2022, Escrow, DeFi primitives</td>
-<td>Turbin3 projects + 100 Days of Solana</td>
+<td>Turbin3 + Solana Fall School + 100 Days of Solana</td>
 </tr>
 <tr>
 <td><b>AI × Web3</b></td>
@@ -321,6 +333,7 @@ I also publish technical notes and build logs on DEV.to covering Solana concepts
 | [PrivateCredit AI](https://github.com/gopichandchalla16/privatecredit-ai-midnight) | AI + ZK + RWA | Python · FastAPI · Compact · Midnight | 🧪 MVP |
 | [NovaAI Nexus](https://github.com/gopichandchalla16/novaai-nexus-honeypot) | Agentic AI | Python · FastAPI · AI Agents | 🌐 Deployed |
 | [Transfer Hook](https://github.com/gopichandchalla16/solana-fall-transfer-hook) | Token-2022 | Rust · Anchor · Transfer Hooks | 🧪 In Progress |
+| [Solana Fall School Work](https://github.com/gopichandchalla16/solana-fall-transfer-hook) | Solana Program Development | Rust · Anchor · Token-2022 · CPIs | 🧪 Active |
 
 > **Recruiter path:** Start with **AI-Sentinel** for AI × Solana, then **Solana Escrow** for Anchor/Rust, then **100 Days of Solana** for protocol depth.
 
