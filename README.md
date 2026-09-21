@@ -281,13 +281,48 @@ I also publish technical notes and build logs on DEV.to covering Solana concepts
 
 ---
 
-# 🏆 GitHub Profile
+# 💼 Recruiter Portfolio
 
-<div align="center">
+<table>
+<tr>
+<th>Focus</th>
+<th>What I Can Build</th>
+<th>Proof of Work</th>
+</tr>
+<tr>
+<td><b>Solana Engineering</b></td>
+<td>Rust + Anchor programs, PDAs, CPIs, Token-2022, Escrow, DeFi primitives</td>
+<td>Turbin3 projects + 100 Days of Solana</td>
+</tr>
+<tr>
+<td><b>AI × Web3</b></td>
+<td>AI agents, blockchain-aware applications, intelligent transaction tooling</td>
+<td>AI-Sentinel + PrivateCredit AI</td>
+</tr>
+<tr>
+<td><b>Web3 Security</b></td>
+<td>Transaction analysis, threat detection, transfer controls and security-focused tooling</td>
+<td>AI-Sentinel + Token-2022 Transfer Hook</td>
+</tr>
+<tr>
+<td><b>AI / GenAI</b></td>
+<td>LLM applications, agentic systems, NLP, forecasting and data products</td>
+<td>NovaAI Nexus + Infosys project</td>
+</tr>
+</table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=gopichandchalla16&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub trophies"/>
+### 🔎 Quick Portfolio
 
-</div>
+| Project | Area | Core Stack | Status |
+|---|---|---|---|
+| [AI-Sentinel](https://github.com/gopichandchalla16/AI-Sentinel) | Solana Security + AI | Next.js · TypeScript · Gemini · Helius | 🚀 Live |
+| [Solana Escrow](https://github.com/gopichandchalla16/turbin3-escrow-q3-26) | Solana Program | Rust · Anchor · Token-2022 | 🧪 Tested |
+| [100 Days of Solana](https://github.com/gopichandchalla16/100-days-of-solana) | Solana Engineering | Rust · Anchor · TypeScript | 🔥 Active |
+| [PrivateCredit AI](https://github.com/gopichandchalla16/privatecredit-ai-midnight) | AI + ZK + RWA | Python · FastAPI · Compact · Midnight | 🧪 MVP |
+| [NovaAI Nexus](https://github.com/gopichandchalla16/novaai-nexus-honeypot) | Agentic AI | Python · FastAPI · AI Agents | 🌐 Deployed |
+| [Transfer Hook](https://github.com/gopichandchalla16/solana-fall-transfer-hook) | Token-2022 | Rust · Anchor · Transfer Hooks | 🧪 In Progress |
+
+> **Recruiter path:** Start with **AI-Sentinel** for AI × Solana, then **Solana Escrow** for Anchor/Rust, then **100 Days of Solana** for protocol depth.
 
 ---
 
