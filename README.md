@@ -292,50 +292,41 @@ I also publish technical notes and build logs on DEV.to covering Solana concepts
 </div>
 
 ---
+# 🧩 Engineering Focus
 
-# 💼 Recruiter Portfolio
+I’m currently focused on becoming a stronger **Solana engineer** while keeping **AI × Web3** as my broader direction.
 
-<table>
-<tr>
-<th>Focus</th>
-<th>What I Can Build</th>
-<th>Proof of Work</th>
-</tr>
-<tr>
-<td><b>Solana Engineering</b></td>
-<td>Rust + Anchor programs, PDAs, CPIs, Token-2022, Escrow, DeFi primitives</td>
-<td>Turbin3 + Solana Fall School + 100 Days of Solana</td>
-</tr>
-<tr>
-<td><b>AI × Web3</b></td>
-<td>AI agents, blockchain-aware applications, intelligent transaction tooling</td>
-<td>AI-Sentinel + PrivateCredit AI</td>
-</tr>
-<tr>
-<td><b>Web3 Security</b></td>
-<td>Transaction analysis, threat detection, transfer controls and security-focused tooling</td>
-<td>AI-Sentinel + Token-2022 Transfer Hook</td>
-</tr>
-<tr>
-<td><b>AI / GenAI</b></td>
-<td>LLM applications, agentic systems, NLP, forecasting and data products</td>
-<td>NovaAI Nexus + Infosys project</td>
-</tr>
-</table>
+### Solana
+- Rust + Anchor program development
+- PDAs, CPIs and account constraints
+- SPL Token and Token-2022
+- Transfer Hooks, Escrow and Vault patterns
+- LiteSVM testing and Devnet workflows
 
-### 🔎 Quick Portfolio
+### AI × Web3
+- AI-assisted blockchain security
+- AI agents and automation
+- On-chain data analysis
+- Privacy-focused Web3 applications
 
-| Project | Area | Core Stack | Status |
-|---|---|---|---|
-| [AI-Sentinel](https://github.com/gopichandchalla16/AI-Sentinel) | Solana Security + AI | Next.js · TypeScript · Gemini · Helius | 🚀 Live |
-| [Solana Escrow](https://github.com/gopichandchalla16/turbin3-escrow-q3-26) | Solana Program | Rust · Anchor · Token-2022 | 🧪 Tested |
-| [100 Days of Solana](https://github.com/gopichandchalla16/100-days-of-solana) | Solana Engineering | Rust · Anchor · TypeScript | 🔥 Active |
-| [PrivateCredit AI](https://github.com/gopichandchalla16/privatecredit-ai-midnight) | AI + ZK + RWA | Python · FastAPI · Compact · Midnight | 🧪 MVP |
-| [NovaAI Nexus](https://github.com/gopichandchalla16/novaai-nexus-honeypot) | Agentic AI | Python · FastAPI · AI Agents | 🌐 Deployed |
-| [Transfer Hook](https://github.com/gopichandchalla16/solana-fall-transfer-hook) | Token-2022 | Rust · Anchor · Transfer Hooks | 🧪 In Progress |
-| [Solana Fall School Work](https://github.com/gopichandchalla16/solana-fall-transfer-hook) | Solana Program Development | Rust · Anchor · Token-2022 · CPIs | 🧪 Active |
+### Open Source & Learning
+- **Turbin3 Q3 2026 Builders Cohort**
+- **Solana Fall School**
+- **100 Days of Solana**
+- Hackathons and practical Web3 projects
+- Building and documenting experiments in public
 
-> **Recruiter path:** Start with **AI-Sentinel** for AI × Solana, then **Solana Escrow** for Anchor/Rust, then **100 Days of Solana** for protocol depth.
+### Selected Technical Work
+
+| Project | What it demonstrates |
+|---|---|
+| [AI-Sentinel](https://github.com/gopichandchalla16/AI-Sentinel) | Solana transaction analysis + AI security |
+| [Solana Escrow](https://github.com/gopichandchalla16/turbin3-escrow-q3-26) | Rust, Anchor, PDAs, CPIs and Token-2022 |
+| [Transfer Hook](https://github.com/gopichandchalla16/solana-fall-transfer-hook) | Token-2022 hooks, rate limiting and CPI design |
+| [100 Days of Solana](https://github.com/gopichandchalla16/100-days-of-solana) | Progressive Solana engineering practice |
+| [PrivateCredit AI](https://github.com/gopichandchalla16/privatecredit-ai-midnight) | AI + privacy + ZK application design |
+
+I’m deliberately keeping this section focused on **evidence of what I build and learn**, rather than titles or inflated claims.
 
 ---
 
