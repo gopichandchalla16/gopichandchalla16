@@ -211,12 +211,20 @@ I build on Solana as a second track. The Rust and Anchor work comes from the Tur
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gopichandchalla16&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopichandchalla16&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="170" alt="Top languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" alt="GitHub stats">
+</picture> <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+  <img src="assets/languages-light.svg" alt="Languages by repository">
+</picture>
 
-<img src="https://streak-stats.demolab.com?user=gopichandchalla16&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+  <img src="assets/contributions-light.svg" alt="Contributions in the last 12 months">
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopichandchalla16&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
+<sub>Cards are generated daily by a GitHub Action in this repository, from public data.</sub>
 
 </div>
 
