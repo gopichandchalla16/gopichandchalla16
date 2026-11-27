@@ -1,22 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1626,55:2243E6,100:7C93FF&height=230&section=header&text=Gopichand%20Challa&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20LLM%20Applications%20%7C%20RAG%20%7C%20Python&descAlignY=62&descSize=19&descColor=E4E9FD" width="100%" alt="Gopichand Challa, AI Engineer"/>
+# Gopichand Challa
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=2243E6&center=true&vCenter=true&width=760&lines=I+build+LLM+apps+that+turn+messy+data+into+decisions;Python+%7C+FastAPI+%7C+Gemini+%7C+OpenAI+%7C+LangChain+%7C+RAG;Two+AI+internships+and+four+public+projects;Open+to+AI+engineer+roles%2C+remote+or+relocation" alt="Typing animation"/></a>
+### AI Engineer
 
+LLM applications, multi agent systems and RAG pipelines in Python
 <br/>
+Guntur, India. Open to remote work and relocation.
 
-<a href="mailto:gopichandchalla516@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/gopichandchalla"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://dev.to/gopichand_dev"><img src="https://img.shields.io/badge/DEV.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-<a href="https://x.com/GopichandAI"><img src="https://img.shields.io/badge/X-@GopichandAI-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Status-Open_to_work-1FA463?style=flat-square"/>
-<img src="https://img.shields.io/badge/Location-Guntur,_India-2243E6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Work-Remote_or_relocation-2243E6?style=flat-square"/>
-<img src="https://komarev.com/ghpvc/?username=gopichandchalla16&label=Profile+views&color=2243E6&style=flat-square" alt="Profile views"/>
+<a href="mailto:gopichandchalla516@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gopichandchalla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://dev.to/gopichand_dev"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://x.com/GopichandAI"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 </div>
 
@@ -28,7 +23,7 @@
 |---|---|
 | **Role I am looking for** | AI Engineer, GenAI Engineer, LLM Application Developer |
 | **What I do** | Build LLM apps, RAG pipelines and data services in Python |
-| **Experience** | Two AI internships in 2025, four projects with public code |
+| **Experience** | Two AI internships in 2025, ten AI projects with public code |
 | **Education** | B.Tech, Computer Science and Engineering, 2024 |
 | **Also learning** | Solana development with Rust and Anchor (Turbin3 Q3 2026 cohort, Solana Fall School) |
 | **Reach me** | gopichandchalla516@gmail.com |
@@ -57,7 +52,7 @@ I am looking for an AI engineer role at an early stage company where I can build
 
 | Area | Tools |
 |---|---|
-| **AI and ML** | Gemini API, OpenAI API, LangChain, prompt engineering, embeddings, RAG, scikit-learn, Prophet, ARIMA |
+| **AI and ML** | Gemini API, OpenAI API, Whisper, LangChain, LangGraph, CrewAI, prompt engineering, embeddings, RAG, scikit-learn, Prophet, ARIMA |
 | **Languages** | Python, SQL, TypeScript, JavaScript, Java, Rust |
 | **Backend** | FastAPI, REST APIs, Pydantic, API key auth, Next.js, Streamlit |
 | **Data** | Pandas, NumPy, Plotly, Matplotlib, PostgreSQL, MySQL, MongoDB, feedparser, yfinance |
@@ -72,16 +67,14 @@ I am looking for an AI engineer role at an early stage company where I can build
 <tr>
 <td width="50%" valign="top">
 
-### NovaAI Nexus
-**Scam detection honeypot API**
+### StockSense AI
+**Multi agent platform for Indian stocks**
 
-FastAPI service that checks messages for scams and phishing, keeps multi turn sessions, and returns JSON with signals, confidence and a reason. Detection is rule based. Regex pulls out UPI IDs, bank accounts and phishing links, and results post to the organiser's callback endpoint.
+A LangGraph workflow that coordinates eight agents: news sentiment, chart patterns, FII and DII flows, IPO analysis, opportunity signals, a morning briefing, market explanations and a portfolio chat. An LLM router calls Gemini and falls back to Hugging Face. Streamlit and Plotly front end. Built with a team for the ET GenAI Hackathon 2026.
 
-`Python` `FastAPI` `Pydantic` `Render`
+`Python` `LangGraph` `Gemini` `Streamlit` `Plotly`
 
-India AI Impact Buildathon 2026
-
-[Source](https://github.com/gopichandchalla16/novaai-nexus-honeypot) | [API docs](https://novaai-nexus-honeypot.onrender.com/docs)
+[Source](https://github.com/gopichandchalla16/StockSense-AI) | [Live demo](https://stocksense-neuralforge.streamlit.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -89,11 +82,9 @@ India AI Impact Buildathon 2026
 ### AI-Sentinel
 **LLM risk analyzer for Solana**
 
-Sends on-chain data from Helius to Gemini with structured prompts and parses the JSON risk verdict. Six API routes: analysis, wallet profiling, program scan, threat feed, follow up chat and wallet history. A rule based fallback runs if the LLM call or parsing fails.
+Sends on-chain data from Helius to Gemini with structured prompts and parses the JSON risk verdict. Six API routes cover analysis, wallet profiling, program scan, threat feed, follow up chat and wallet history. A rule based fallback runs if the LLM call or parsing fails. Colosseum Frontier Hackathon 2026.
 
 `Next.js` `TypeScript` `Gemini` `Vercel`
-
-Colosseum Frontier Hackathon 2026
 
 [Source](https://github.com/gopichandchalla16/AI-Sentinel) | [Live demo](https://ai-sentinel-three.vercel.app)
 
@@ -102,36 +93,69 @@ Colosseum Frontier Hackathon 2026
 <tr>
 <td width="50%" valign="top">
 
+### NovaAI Nexus
+**Scam detection honeypot API**
+
+FastAPI service that checks messages for scams and phishing, keeps multi turn sessions, and returns JSON with signals, confidence and a reason. Detection is rule based. Regex pulls out UPI IDs, bank accounts and phishing links, and results post to the organiser's callback endpoint. India AI Impact Buildathon 2026.
+
+`Python` `FastAPI` `Pydantic` `Render`
+
+[Source](https://github.com/gopichandchalla16/novaai-nexus-honeypot) | [API docs](https://novaai-nexus-honeypot.onrender.com/docs)
+
+</td>
+<td width="50%" valign="top">
+
 ### Real-Time Industry Insight System
 **Market sentiment and forecasting pipeline**
 
 Built in a team of four during my Infosys Springboard internship. Pulls Google News RSS and Yahoo Finance data, scores sentiment with Gemini from -100 to +100, forecasts with Prophet, and produces a rule based BUY, SELL or HOLD signal. Plotly and Streamlit dashboard with Slack alerts.
 
-`Python` `Gemini` `Prophet` `Streamlit` `Plotly`
+`Python` `Gemini` `Prophet` `Streamlit`
 
 [Source](https://github.com/gopichandchalla16/infosys-internship-real-time-industry-insight-system)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### AI Code Reviewer
-**Run and debug Python with Gemini**
+### Project Samarth
+**Q&A across climate and crop data**
 
-A Streamlit app where you write and run Python code, then ask Gemini to explain, debug or improve it. You bring your own Gemini API key.
+A Streamlit app where Python data tools pull from IMD climate data and a crop production dataset, and Gemini writes a policy brief that must cite the source dataset for each claim. Built for the Build For Bharat fellowship task.
 
-`Python` `Streamlit` `Gemini API`
+`Python` `Pandas` `Gemini` `Streamlit`
 
-[Source](https://github.com/gopichandchalla16/AI-Code-Reviewer) | [Demo](https://syntax-surgeon.streamlit.app/)
+[Source](https://github.com/gopichandchalla16/Project_Samarth_Prototype) | [Live demo](https://samarth-data-insights.streamlit.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### Search My Subtitles
+**Audio to subtitles with Whisper**
+
+A Streamlit app that turns MP3, WAV and M4A files into SRT subtitles with OpenAI Whisper, then lets you search the text.
+
+`Python` `Whisper` `Streamlit`
+
+[Source](https://github.com/gopichandchalla16/Enhancing-Search-Engine-Relevance-for-Video-Subtitles) | [Live demo](https://searchmysubtitles.streamlit.app/)
 
 </td>
 </tr>
 </table>
 
+### More AI work
+
+- [CognitoSync](https://github.com/gopichandchalla16/CardanoNovachain-Nexus): knowledge verification agent built with CrewAI, Masumi and Cardano at the Cardano Hackathon Asia 2025.
+- [AI Medical Diagnosis System](https://github.com/gopichandchalla16/AI-Medical-Diagnosis-System): Streamlit app with trained machine learning models that predict health risks from input data. A demo, not medical advice. [Live demo](https://smarthealthstream.streamlit.app/)
+- [AI Code Reviewer](https://github.com/gopichandchalla16/AI-Code-Reviewer): run Python and ask Gemini to explain or debug it. [Demo](https://syntax-surgeon.streamlit.app/)
+- [AI Travel Planner](https://github.com/gopichandchalla16/AI-Travel-Planner): Gemini trip itineraries in Streamlit. [Demo](https://smartai-trip-planner.streamlit.app/)
+
 ---
 
 ## How my projects work
 
-Both the Infosys system and NovaAI follow the same idea: take messy input, get a structured result, and keep working when a part fails.
+The Infosys system, as an example of how I build: take messy input, get a structured result, and keep working when a part fails.
 
 ```mermaid
 flowchart LR
@@ -214,6 +238,5 @@ If you are hiring for an AI engineer role, or building something with LLMs, I wo
 <a href="mailto:gopichandchalla516@gmail.com"><img src="https://img.shields.io/badge/Email_me-gopichandchalla516@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/gopichandchalla"><img src="https://img.shields.io/badge/Message_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1626,55:2243E6,100:7C93FF&height=110&section=footer" width="100%" alt=""/>
 
 </div>
